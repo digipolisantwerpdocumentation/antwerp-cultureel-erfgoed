@@ -1,4 +1,2 @@
 ##### R-TL-001
-ACE staat Antwerp - Cultureel Erfgoed
-
-
+ACE staat voor Antwerp - Cultureel Erfgoed

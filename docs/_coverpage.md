@@ -10,7 +10,7 @@
 - verrijkt met externe authorities 
 - gebruik van Linked Open Data
 
-<!-- [GitHub](https://github.com/meersmi/ace) -->
+<!-- [GitHub](https://github.com/digipolisantwerpdocumentation/antwerp-cultureel-erfgoed) -->
 [Get Started](#main)
 
 ![color](#0057b7)
