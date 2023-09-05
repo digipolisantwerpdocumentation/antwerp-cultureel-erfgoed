@@ -55,6 +55,31 @@
 	* [DigitaalObject](/content/modellen/DigitaalObject.md)
 	* [Kunstwerk](/content/modellen/Kunstwerk.md)
 
+* Cidoc CRM
+	* Bibliografisch item
+		* [identificatie](/content/modellen/CRM/BibliographicalItem/Identification.md)
+		* [beschrijving](/content/modellen/CRM/BibliographicalItem/Description.md)
+		* [fysieke kenmerken](/content/modellen/CRM/BibliographicalItem/Physical.md)
+	* Bibliografische publicatie
+		* [identificatie](/content/modellen/CRM/BibliographicalPublicationExpression/Identification.md)
+		* [beschrijving](/content/modellen/CRM/BibliographicalPublicationExpression/Description.md)
+		* [fysieke kenmerken](/content/modellen/CRM/BibliographicalPublicationExpression/Physical.md)
+		* [vervaardiging](/content/modellen/CRM/BibliographicalPublicationExpression/Existence.md)
+		* [onderwerp](/content/modellen/CRM/BibliographicalPublicationExpression/Subject.md)
+		* [relaties](/content/modellen/CRM/BibliographicalPublicationExpression/Relation.md)
+	* Museologisch item
+		* [identificatie](/content/modellen/CRM/MuseologicalItem/Identification.md)
+		* [beschrijving](/content/modellen/CRM/MuseologicalItem/Description.md)
+		* [fysieke kenmerken](/content/modellen/CRM/MuseologicalItem/Physical.md)
+		* [vervaardiging](/content/modellen/CRM/MuseologicalItem/Existence.md)
+		* [onderwerp](/content/modellen/CRM/MuseologicalItem/Subject.md)
+		* [relaties](/content/modellen/CRM/MuseologicalItem/Relation.md)
+		* [iconografie](/content/modellen/CRM/MuseologicalItem/Iconography.md)
+
+* Cidoc CRM (fomu)
+	* [Producttype](/content/modellen/CRM/Producttype.md)
+	* [Item](/content/modellen/CRM/Item.md)
+
 * Tabelweergave
 
     * [OSLO paden](/content/modellen/tabel.md)
