@@ -77,7 +77,7 @@
 		* [iconografie](/content/modellen/CRM/MuseologicalItem/Iconography.md)
 
 * Cidoc CRM (fomu)
-	* [Producttype](/content/modellen/CRM/Producttype.md)
+	* [Producttype](/content/modellen/CRM/ProductType.md)
 	* [Item](/content/modellen/CRM/Item.md)
 
 * Tabelweergave
