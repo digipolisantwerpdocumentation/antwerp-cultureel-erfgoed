@@ -49,7 +49,7 @@
 	* [Vervaardiging](/content/modellen/ArchiefItemMaterieel/Vervaardiging.md)
 
 * FoMu
-	* [Producttype](/content/modellen/CRM/Producttype.md)
+	* [Producttype](/content/modellen/CRM/ProductType.md)
 	* [Item](/content/modellen/CRM/Item.md)
 
 * Tabelweergave
