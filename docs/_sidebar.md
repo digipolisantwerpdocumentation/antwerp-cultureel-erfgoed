@@ -3,81 +3,53 @@
 * Start
     * [Inleiding](/content/getting-started.md)
 
-* Afbeelding
+* Museologisch item
+	* [identificatie](/content/modellen/CRM/MuseologicalItem/Identification.md)
+	* [beschrijving](/content/modellen/CRM/MuseologicalItem/Description.md)
+	* [fysieke kenmerken](/content/modellen/CRM/MuseologicalItem/Physical.md)
+	* [vervaardiging](/content/modellen/CRM/MuseologicalItem/Existence.md)
+	* [onderwerp](/content/modellen/CRM/MuseologicalItem/Subject.md)
+	* [relaties](/content/modellen/CRM/MuseologicalItem/Relation.md)
+	* [iconografie](/content/modellen/CRM/MuseologicalItem/Iconography.md)
 
-    * [Identificatie](/content/modellen/Afbeelding/Identificatie.md)
-    * [Rechten](/content/modellen/Afbeelding/Rechten.md)
-	
-* Agent
+* Bibliografisch item
+	* [identificatie](/content/modellen/CRM/BibliographicalItem/Identification.md)
+	* [beschrijving](/content/modellen/CRM/BibliographicalItem/Description.md)
+	* [fysieke kenmerken](/content/modellen/CRM/BibliographicalItem/Physical.md)
 
-    * [Identificatie](/content/modellen/Agent/Identificatie.md)
+* Bibliografische publicatie
+	* [identificatie](/content/modellen/CRM/BibliographicalPublicationExpression/Identification.md)
+	* [beschrijving](/content/modellen/CRM/BibliographicalPublicationExpression/Description.md)
+	* [fysieke kenmerken](/content/modellen/CRM/BibliographicalPublicationExpression/Physical.md)
+	* [vervaardiging](/content/modellen/CRM/BibliographicalPublicationExpression/Existence.md)
+	* [onderwerp](/content/modellen/CRM/BibliographicalPublicationExpression/Subject.md)
+	* [relaties](/content/modellen/CRM/BibliographicalPublicationExpression/Relation.md)
 
-* BibliografischeEntiteit
+* Archief item (immaterieel)
 
-	* [Identificatie](/content/modellen/BibliografischeEntiteit/Identificatie.md)
-	* [Beschrijving](/content/modellen/BibliografischeEntiteit/Beschrijving.md)
-	* [Standplaats](/content/modellen/BibliografischeEntiteit/Standplaats.md)
-	* [Afbeelding](/content/modellen/BibliografischeEntiteit/Afbeelding.md)
-	* [Associaties](/content/modellen/BibliografischeEntiteit/Associaties.md)
-	* [Rechten](/content/modellen/BibliografischeEntiteit/Rechten.md)
-	* [Vervaardiging](/content/modellen/BibliografischeEntiteit/Vervaardiging.md)
-	* [Verwerving](/content/modellen/BibliografischeEntiteit/Verwerving.md)
-	* [Conditie](/content/modellen/BibliografischeEntiteit/Conditie.md)
-	
-* Concept
+	* [Identificatie](/content/modellen/ArchiefItemImmaterieel/Identificatie.md)
+	* [Aantekeningen](/content/modellen/ArchiefItemImmaterieel/Aantekeningen.md)
+	* [Creatie](/content/modellen/ArchiefItemImmaterieel/Creatie.md)
+	* [Inhoud](/content/modellen/ArchiefItemImmaterieel/Inhoud.md)
+	* [Legacy informatie](/content/modellen/ArchiefItemImmaterieel/LegacyInformatie.md)
+	* [Rechten](/content/modellen/ArchiefItemImmaterieel/Rechten.md)
+	* [Verwant materiaal](/content/modellen/ArchiefItemImmaterieel/VerwantMateriaal.md)
+	* [Verwijzingen](/content/modellen/ArchiefItemImmaterieel/Verwijzingen.md)
 
-	* [Identificatie](/content/modellen/Concept/Identificatie.md)
+* Archief item (materieel)
 
-* DigitaalObject
+	* [Identificatie](/content/modellen/ArchiefItemMaterieel/Identificatie.md)
+	* [Aantekeningen](/content/modellen/ArchiefItemMaterieel/Aantekeningen.md)
+	* [Afbeeldingen](/content/modellen/ArchiefItemMaterieel/Afbeeldingen.md)
+	* [Bewaargegevens](/content/modellen/ArchiefItemMaterieel/Bewaargegevens.md)
+	* [Context](/content/modellen/ArchiefItemMaterieel/Context.md)
+	* [Fysieke kenmerken](/content/modellen/ArchiefItemMaterieel/FysiekeKenmerken.md)
+	* [Objectstatus](/content/modellen/ArchiefItemMaterieel/Objectstatus.md)
+	* [Rechten](/content/modellen/ArchiefItemMaterieel/Rechten.md)
+	* [Vervaardiging](/content/modellen/ArchiefItemMaterieel/Vervaardiging.md)
 
-	* [Identificatie](/content/modellen/DigitaalObject/Identificatie.md)
-	* [Beschrijving](/content/modellen/DigitaalObject/Beschrijving.md)
-	* [Rechten](/content/modellen/DigitaalObject/Rechten.md)
-	
-* Kunstwerk
-
-	* [Identificatie](/content/modellen/Kunstwerk/Identificatie.md)
-	* [Beschrijving](/content/modellen/Kunstwerk/Beschrijving.md)
-	* [Standplaats](/content/modellen/Kunstwerk/Standplaats.md)
-	* [Afbeelding](/content/modellen/Kunstwerk/Afbeelding.md)
-	* [Associaties](/content/modellen/Kunstwerk/Associaties.md)
-	* [Rechten](/content/modellen/Kunstwerk/Rechten.md)
-	* [Vervaardiging](/content/modellen/Kunstwerk/Vervaardiging.md)
-	* [Verwerving](/content/modellen/Kunstwerk/Verwerving.md)
-	* [Conditie](/content/modellen/Kunstwerk/Conditie.md)
-	* [Uitbeelding](/content/modellen/Kunstwerk/Uitbeelding.md)
-
-* Modellen
-	* [Afbeelding](/content/modellen/Afbeelding.md)
-	* [Agent](/content/modellen/Agent.md)
-	* [BibliografischeEntiteit](/content/modellen/BibliografischeEntiteit.md)
-	* [Concept](/content/modellen/Concept.md)
-	* [DigitaalObject](/content/modellen/DigitaalObject.md)
-	* [Kunstwerk](/content/modellen/Kunstwerk.md)
-
-* Cidoc CRM
-	* Bibliografisch item
-		* [identificatie](/content/modellen/CRM/BibliographicalItem/Identification.md)
-		* [beschrijving](/content/modellen/CRM/BibliographicalItem/Description.md)
-		* [fysieke kenmerken](/content/modellen/CRM/BibliographicalItem/Physical.md)
-	* Bibliografische publicatie
-		* [identificatie](/content/modellen/CRM/BibliographicalPublicationExpression/Identification.md)
-		* [beschrijving](/content/modellen/CRM/BibliographicalPublicationExpression/Description.md)
-		* [fysieke kenmerken](/content/modellen/CRM/BibliographicalPublicationExpression/Physical.md)
-		* [vervaardiging](/content/modellen/CRM/BibliographicalPublicationExpression/Existence.md)
-		* [onderwerp](/content/modellen/CRM/BibliographicalPublicationExpression/Subject.md)
-		* [relaties](/content/modellen/CRM/BibliographicalPublicationExpression/Relation.md)
-	* Museologisch item
-		* [identificatie](/content/modellen/CRM/MuseologicalItem/Identification.md)
-		* [beschrijving](/content/modellen/CRM/MuseologicalItem/Description.md)
-		* [fysieke kenmerken](/content/modellen/CRM/MuseologicalItem/Physical.md)
-		* [vervaardiging](/content/modellen/CRM/MuseologicalItem/Existence.md)
-		* [onderwerp](/content/modellen/CRM/MuseologicalItem/Subject.md)
-		* [relaties](/content/modellen/CRM/MuseologicalItem/Relation.md)
-		* [iconografie](/content/modellen/CRM/MuseologicalItem/Iconography.md)
-
-* Cidoc CRM (fomu)
-	* [Producttype](/content/modellen/CRM/ProductType.md)
+* FoMu
+	* [Producttype](/content/modellen/CRM/Producttype.md)
 	* [Item](/content/modellen/CRM/Item.md)
 
 * Tabelweergave
