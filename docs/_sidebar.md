@@ -80,3 +80,4 @@
 * Tabelweergaven
 
     * [Datahub](/content/modellen/TabelDatahub.md)
+    * [Adlib](/content/modellen/TabelMuseologicalItem.md)
