@@ -77,22 +77,6 @@
 	* [Voorstelling](/content/modellen/ImmaterialCulturalHeritage/Voorstelling.md)
 	* [Item](/content/modellen/ImmaterialCulturalHeritage/Item.md)
 
-* FoMu
-
-	* [Product type: Identificatie](/content/modellen/ProductType/Identificatie.md)
-	* [Product type: Aantekeningen](/content/modellen/ProductType/Aantekeningen.md)
-	* [Product type: Fysieke kenmerken](/content/modellen/ProductType/FysiekeKenmerken.md)
-	* [Product type: Inhoud](/content/modellen/ProductType/Inhoud.md)
-	* [Product series: Identificatie](/content/modellen/ProductSeries/Identificatie.md)
-	* [Product series: Aantekeningen](/content/modellen/ProductSeries/Aantekeningen.md)
-	* [Product series: Creatie](/content/modellen/ProductSeries/Creatie.md)
-	* [Product series: Rechten](/content/modellen/ProductSeries/Rechten.md)
-	* [Product instance: Identificatie](/content/modellen/ProductInstance/Identificatie.md)
-	* [Product instance: Aantekeningen](/content/modellen/ProductInstance/Aantekeningen.md)
-	* [Product instance: Fysieke kenmerken](/content/modellen/ProductInstance/FysiekeKenmerken.md)
-	* [Product instance: Inhoud](/content/modellen/ProductInstance/Inhoud.md)
-
 * Tabelweergaven
 
     * [Datahub](/content/modellen/TabelDatahub.md)
-    * [FoMu](/content/modellen/TabelFoMu.md)
