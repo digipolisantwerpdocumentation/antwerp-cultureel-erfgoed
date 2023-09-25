@@ -1,14 +1,14 @@
 ```mermaid
 graph LR
 3dd7317e-b4e3-11ec-9349-9cf387da2c40["crm:E41_Appellation"]-->|"crm:P3_has_note"|52db2ac6-b4e3-11ec-9349-9cf387da2c40(rdfs:Literal)
-1dcf1ebe-b4e3-11ec-9349-9cf387da2c40["crm:E41_Appellation"]-.-1dcf1ebe-b4e3-11ec-9349-9cf387da2c40_s(["ID"])
-6da8f02c-b4e3-11ec-9349-9cf387da2c40["crm:E55_Type"]-.-6da8f02c-b4e3-11ec-9349-9cf387da2c40_s(["Inschrijvingsnummer type"])
-52db2ac6-b4e3-11ec-9349-9cf387da2c40["rdfs:Literal"]-.-52db2ac6-b4e3-11ec-9349-9cf387da2c40_s(["Inschrijvingsnummer"])
-d1dd8b50-a5fe-11ec-b19f-9cf387da2c40["crm:E41_Appellation"]-.-d1dd8b50-a5fe-11ec-b19f-9cf387da2c40_s(["ID"])
-style 1dcf1ebe-b4e3-11ec-9349-9cf387da2c40_s stroke-dasharray: 5
-style 6da8f02c-b4e3-11ec-9349-9cf387da2c40_s stroke-dasharray: 5
-style 52db2ac6-b4e3-11ec-9349-9cf387da2c40_s stroke-dasharray: 5
-style d1dd8b50-a5fe-11ec-b19f-9cf387da2c40_s stroke-dasharray: 5
+1dcf1ebe-b4e3-11ec-9349-9cf387da2c40["crm:E41_Appellation"]-.-1dcf1ebe-b4e3-11ec-9349-9cf387da2c40_s(["Acquisition Widget"])
+6da8f02c-b4e3-11ec-9349-9cf387da2c40["crm:E55_Type"]-.-6da8f02c-b4e3-11ec-9349-9cf387da2c40_s(["Acquisition Number Type"])
+52db2ac6-b4e3-11ec-9349-9cf387da2c40["rdfs:Literal"]-.-52db2ac6-b4e3-11ec-9349-9cf387da2c40_s(["Acquisition Number"])
+3dd7317e-b4e3-11ec-9349-9cf387da2c40["crm:E41_Appellation"]-.-3dd7317e-b4e3-11ec-9349-9cf387da2c40_s(["Acquisition Numbers"])
+076d1fc2-b4e3-11ec-9349-9cf387da2c40["crm:E8_Acquisition"]-.-076d1fc2-b4e3-11ec-9349-9cf387da2c40_s(["Acquisition"])
+d1dd8b50-a5fe-11ec-b19f-9cf387da2c40["crm:E41_Appellation"]-.-d1dd8b50-a5fe-11ec-b19f-9cf387da2c40_s(["Archive Widget"])
+cb619fd0-b4e2-11ec-9349-9cf387da2c40["crm:E7_Activity"]-.-cb619fd0-b4e2-11ec-9349-9cf387da2c40_s(["Acquisitions"])
+d1dc46aa-a5fe-11ec-b19f-9cf387da2c40["crm:E78_Curated_Holding"]-.-d1dc46aa-a5fe-11ec-b19f-9cf387da2c40_s(["Archives"])
 076d1fc2-b4e3-11ec-9349-9cf387da2c40["crm:E8_Acquisition"]-->|"crm:P1_is_identified_by"|1dcf1ebe-b4e3-11ec-9349-9cf387da2c40["crm:E41_Appellation"]
 3dd7317e-b4e3-11ec-9349-9cf387da2c40["crm:E41_Appellation"]-->|"crm:P2_has_type"|6da8f02c-b4e3-11ec-9349-9cf387da2c40["crm:E55_Type"]
 cb619fd0-b4e2-11ec-9349-9cf387da2c40["crm:E7_Activity"]-->|"crm:P1_is_identified_by"|3dd7317e-b4e3-11ec-9349-9cf387da2c40["crm:E41_Appellation"]
@@ -24,4 +24,12 @@ style 6da8f02c-b4e3-11ec-9349-9cf387da2c40 fill:#ffa500
 style cb619fd0-b4e2-11ec-9349-9cf387da2c40 fill:#5DAEEC
 style d1dc46aa-a5fe-11ec-b19f-9cf387da2c40 fill:#B0927A
 style d1dd8b50-a5fe-11ec-b19f-9cf387da2c40 fill:#EEE8AA
+style 1dcf1ebe-b4e3-11ec-9349-9cf387da2c40_s stroke-dasharray: 5
+style 6da8f02c-b4e3-11ec-9349-9cf387da2c40_s stroke-dasharray: 5
+style 52db2ac6-b4e3-11ec-9349-9cf387da2c40_s stroke-dasharray: 5
+style 3dd7317e-b4e3-11ec-9349-9cf387da2c40_s stroke-dasharray: 5
+style 076d1fc2-b4e3-11ec-9349-9cf387da2c40_s stroke-dasharray: 5
+style d1dd8b50-a5fe-11ec-b19f-9cf387da2c40_s stroke-dasharray: 5
+style cb619fd0-b4e2-11ec-9349-9cf387da2c40_s stroke-dasharray: 5
+style d1dc46aa-a5fe-11ec-b19f-9cf387da2c40_s stroke-dasharray: 5
 ```

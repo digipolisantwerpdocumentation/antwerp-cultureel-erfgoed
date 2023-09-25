@@ -4,29 +4,33 @@
     * [Inleiding](/content/getting-started.md)
 
 * Museologisch item
-	* [identificatie](/content/modellen/CRM/MuseologicalItem/Identification.md)
-	* [beschrijving](/content/modellen/CRM/MuseologicalItem/Description.md)
-	* [fysieke kenmerken](/content/modellen/CRM/MuseologicalItem/Physical.md)
-	* [vervaardiging](/content/modellen/CRM/MuseologicalItem/Existence.md)
-	* [onderwerp](/content/modellen/CRM/MuseologicalItem/Subject.md)
-	* [relaties](/content/modellen/CRM/MuseologicalItem/Relation.md)
-	* [iconografie](/content/modellen/CRM/MuseologicalItem/Iconography.md)
+	* [Identificatie](/content/modellen/MuseologicalItem/Identificatie.md)
+	* [Aantekeningen](/content/modellen/MuseologicalItem/Aantekeningen.md)
+	* [Bewaargegevens](/content/modellen/MuseologicalItem/Bewaargegevens.md)
+	* [Context](/content/modellen/MuseologicalItem/Context.md)
+	* [Fysieke Kenmerken](/content/modellen/MuseologicalItem/FysiekeKenmerken.md)
+	* [Inhoud](/content/modellen/MuseologicalItem/Inhoud.md)
+	* [Rechten](/content/modellen/MuseologicalItem/Rechten.md)
+	* [Vervaardiging](/content/modellen/MuseologicalItem/Vervaardiging.md)
+	* [Verwijzingen](/content/modellen/MuseologicalItem/Verwijzingen.md)
 
 * Bibliografisch item
-	* [identificatie](/content/modellen/CRM/BibliographicalItem/Identification.md)
-	* [beschrijving](/content/modellen/CRM/BibliographicalItem/Description.md)
-	* [fysieke kenmerken](/content/modellen/CRM/BibliographicalItem/Physical.md)
+	* [Identificatie](/content/modellen/BibliographicalItem/Identificatie.md)
+	* [Aantekeningen](/content/modellen/BibliographicalItem/Aantekeningen.md)
+	* [Bewaargegevens](/content/modellen/BibliographicalItem/Bewaargegevens.md)
+	* [Context](/content/modellen/BibliographicalItem/Context.md)
+	* [Fysieke Kenmerken](/content/modellen/BibliographicalItem/FysiekeKenmerken.md)
 
 * Bibliografische publicatie
-	* [identificatie](/content/modellen/CRM/BibliographicalPublicationExpression/Identification.md)
-	* [beschrijving](/content/modellen/CRM/BibliographicalPublicationExpression/Description.md)
-	* [fysieke kenmerken](/content/modellen/CRM/BibliographicalPublicationExpression/Physical.md)
-	* [vervaardiging](/content/modellen/CRM/BibliographicalPublicationExpression/Existence.md)
-	* [onderwerp](/content/modellen/CRM/BibliographicalPublicationExpression/Subject.md)
-	* [relaties](/content/modellen/CRM/BibliographicalPublicationExpression/Relation.md)
+	* [Identificatie](/content/modellen/BibliographicalPublicationExpression/Identificatie.md)
+	* [Aantekeningen](/content/modellen/BibliographicalPublicationExpression/Aantekeningen.md)
+	* [Creatie](/content/modellen/BibliographicalPublicationExpression/Creatie.md)
+	* [Fysieke kenmerken](/content/modellen/BibliographicalPublicationExpression/FysiekeKenmerken.md)
+	* [Inhoud](/content/modellen/BibliographicalPublicationExpression/Inhoud.md)
+	* [Uitgave](/content/modellen/BibliographicalPublicationExpression/Uitgave.md)
+	* [Verwijzingen](/content/modellen/BibliographicalPublicationExpression/Verwijzingen.md)
 
 * Archief item (immaterieel)
-
 	* [Identificatie](/content/modellen/ArchiefItemImmaterieel/Identificatie.md)
 	* [Aantekeningen](/content/modellen/ArchiefItemImmaterieel/Aantekeningen.md)
 	* [Creatie](/content/modellen/ArchiefItemImmaterieel/Creatie.md)
@@ -37,7 +41,6 @@
 	* [Verwijzingen](/content/modellen/ArchiefItemImmaterieel/Verwijzingen.md)
 
 * Archief item (materieel)
-
 	* [Identificatie](/content/modellen/ArchiefItemMaterieel/Identificatie.md)
 	* [Aantekeningen](/content/modellen/ArchiefItemMaterieel/Aantekeningen.md)
 	* [Afbeeldingen](/content/modellen/ArchiefItemMaterieel/Afbeeldingen.md)
@@ -48,10 +51,48 @@
 	* [Rechten](/content/modellen/ArchiefItemMaterieel/Rechten.md)
 	* [Vervaardiging](/content/modellen/ArchiefItemMaterieel/Vervaardiging.md)
 
+* Archief eenheid
+	* [Identificatie](/content/modellen/ArchivalUnit/Identificatie.md)
+	* [Aantekeningen](/content/modellen/ArchivalUnit/Aantekeningen.md)
+	* [Bewaargegevens](/content/modellen/ArchivalUnit/Bewaargegevens.md)
+	* [Context](/content/modellen/ArchivalUnit/Context.md)
+	* [Fysieke kenmerken](/content/modellen/ArchivalUnit/FysiekeKenmerken.md)
+	* [Inhoud](/content/modellen/ArchivalUnit/Inhoud.md)
+
+* Digitaal object
+	* [Identificatie](/content/modellen/DigitalObject/Identificatie.md)
+	* [Inhoud](/content/modellen/DigitalObject/Inhoud.md)
+	* [Rechten](/content/modellen/DigitalObject/Rechten.md)
+
+* Overige modellen
+	* [Concept](/content/modellen/Concept.md)
+	* [Persoon](/content/modellen/Person.md)
+	* [Groep](/content/modellen/Group.md)
+	* [Verwerving](/content/modellen/Acquisition.md)
+	* [Conditiebepaling](/content/modellen/ConditionAssessment.md)
+
+* Immaterieel cultureel erfgoed
+
+	* [Expressie](/content/modellen/ImmaterialCulturalHeritage/Expressie.md)
+	* [Voorstelling](/content/modellen/ImmaterialCulturalHeritage/Voorstelling.md)
+	* [Item](/content/modellen/ImmaterialCulturalHeritage/Item.md)
+
 * FoMu
-	* [Producttype](/content/modellen/CRM/ProductType.md)
-	* [Item](/content/modellen/CRM/Item.md)
 
-* Tabelweergave
+	* [Product type: Identificatie](/content/modellen/ProductType/Identificatie.md)
+	* [Product type: Aantekeningen](/content/modellen/ProductType/Aantekeningen.md)
+	* [Product type: Fysieke kenmerken](/content/modellen/ProductType/FysiekeKenmerken.md)
+	* [Product type: Inhoud](/content/modellen/ProductType/Inhoud.md)
+	* [Product series: Identificatie](/content/modellen/ProductSeries/Identificatie.md)
+	* [Product series: Aantekeningen](/content/modellen/ProductSeries/Aantekeningen.md)
+	* [Product series: Creatie](/content/modellen/ProductSeries/Creatie.md)
+	* [Product series: Rechten](/content/modellen/ProductSeries/Rechten.md)
+	* [Product instance: Identificatie](/content/modellen/ProductInstance/Identificatie.md)
+	* [Product instance: Aantekeningen](/content/modellen/ProductInstance/Aantekeningen.md)
+	* [Product instance: Fysieke kenmerken](/content/modellen/ProductInstance/FysiekeKenmerken.md)
+	* [Product instance: Inhoud](/content/modellen/ProductInstance/Inhoud.md)
 
-    * [OSLO paden](/content/modellen/tabel.md)
+* Tabelweergaven
+
+    * [Datahub](/content/modellen/TabelDatahub.md)
+    * [FoMu](/content/modellen/TabelFoMu.md)

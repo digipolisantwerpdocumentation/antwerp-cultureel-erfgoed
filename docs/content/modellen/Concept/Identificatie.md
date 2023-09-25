@@ -1,30 +1,29 @@
 ```mermaid
 graph LR
-169[TypeEntiteit]-->|skos:note|178(TaalString)
-169[TypeEntiteit]-->|skos:prefLabel|173(TaalString)
-170[TypeEntiteit]-->|rdfs:label|171(GetypeerdeString)
-174[TypeEntiteit]-->|rdfs:label|175(GetypeerdeString)
-176[TypeEntiteit]-->|rdfs:label|177(GetypeerdeString)
-169[TypeEntiteit]-->|skos:broader|174[TypeEntiteit]
-169[TypeEntiteit]-->|skos:exactMatch|176[TypeEntiteit]
-169[TypeEntiteit]-->|skos:narrower|170[TypeEntiteit]
-style 174_s stroke-dasharray: 5
-style 176_s stroke-dasharray: 5
-style 170_s stroke-dasharray: 5
-style 178_s stroke-dasharray: 5
-style 173_s stroke-dasharray: 5
-174[TypeEntiteit]-.-174_s([concept ruimer])
-176[TypeEntiteit]-.-176_s([concept URI])
-170[TypeEntiteit]-.-170_s([concept enger])
-178[TaalString]-.-178_s([tekst])
-173[TaalString]-.-173_s([label])
-style 169 fill:#ffa500
-style 170 fill:#ffa500
-style 171 fill:#D3D3D3
-style 173 fill:#EEE8AA
-style 174 fill:#ffa500
-style 175 fill:#D3D3D3
-style 176 fill:#ffa500
-style 177 fill:#D3D3D3
-style 178 fill:#EEE8AA
+856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-->|"crm:P190_has_symbolic_content"|856afd7a-c7e5-11ed-af84-00163e71351b(rdfs:Literal)
+856afa78-c7e5-11ed-af84-00163e71351b["crm:E56_Language"]-->|"rdfs:label"|c76debe0-ce3b-11ed-9064-00163e71351b(xsd:string)
+856afc12-c7e5-11ed-af84-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|856afece-c7e5-11ed-af84-00163e71351b(xsd:string)
+a25ea6ca-c7e5-11ed-bbe2-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|a25eab52-c7e5-11ed-bbe2-00163e71351b(xsd:string)
+5c49f282-be8c-11ed-beba-96a6d245525a["crm:E55_Type"]-->|"crm:P1_is_identified_by"|856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]
+5c49f282-be8c-11ed-beba-96a6d245525a["crm:E55_Type"]-->|"crm:P2_has_type"|a25ea6ca-c7e5-11ed-bbe2-00163e71351b["crm:E55_Type"]
+856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-->|"crm:P2_has_type"|856afc12-c7e5-11ed-af84-00163e71351b["crm:E55_Type"]
+856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-->|"crm:P72_has_language"|856afa78-c7e5-11ed-af84-00163e71351b["crm:E56_Language"]
+style 856af5be-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
+style a25ea6ca-c7e5-11ed-bbe2-00163e71351b_s stroke-dasharray: 5
+style 856afd7a-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
+style 856afc12-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
+style 856afa78-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
+856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-.-856af5be-c7e5-11ed-af84-00163e71351b_s(["Naam"])
+a25ea6ca-c7e5-11ed-bbe2-00163e71351b["crm:E55_Type"]-.-a25ea6ca-c7e5-11ed-bbe2-00163e71351b_s(["Type uri"])
+856afd7a-c7e5-11ed-af84-00163e71351b["rdfs:Literal"]-.-856afd7a-c7e5-11ed-af84-00163e71351b_s(["Naam inhoud"])
+856afc12-c7e5-11ed-af84-00163e71351b["crm:E55_Type"]-.-856afc12-c7e5-11ed-af84-00163e71351b_s(["Naam type uri"])
+856afa78-c7e5-11ed-af84-00163e71351b["crm:E56_Language"]-.-856afa78-c7e5-11ed-af84-00163e71351b_s(["Naam taal uri"])
+style 856af5be-c7e5-11ed-af84-00163e71351b fill:#ffff00
+style 856afa78-c7e5-11ed-af84-00163e71351b fill:#ffa500
+style 856afc12-c7e5-11ed-af84-00163e71351b fill:#ffa500
+style 856afd7a-c7e5-11ed-af84-00163e71351b fill:#D3D3D3
+style 856afece-c7e5-11ed-af84-00163e71351b fill:#D3D3D3
+style a25ea6ca-c7e5-11ed-bbe2-00163e71351b fill:#ffa500
+style a25eab52-c7e5-11ed-bbe2-00163e71351b fill:#D3D3D3
+style c76debe0-ce3b-11ed-9064-00163e71351b fill:#D3D3D3
 ```
