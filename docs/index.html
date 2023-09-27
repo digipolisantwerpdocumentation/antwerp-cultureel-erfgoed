@@ -24,17 +24,24 @@
 
 <body>
   <div id="app"></div>
-   <script>
+	<script>
     window.$docsify = 
 		{
 		name: 'Antwerp - Cultureel Erfgoed',
 		repo: 'digipolisantwerpdocumentation/antwerp-cultureel-erfgoed',
 		mermaidConfig: {querySelector: ".mermaid"},
+		mermaidZoom:
+			{
+			minimumScale: 1,
+			maximumScale: 5,
+			zoomPannel: true,
+			},
 		relativePath: false,
-		maxLevel: 4,
+		maxLevel: 3,
+		subMaxLevel: 2,
 		auto2top: true,
 		loadSidebar: true,
-		autoHeader: false,
+		autoHeader: true,
 		loadNavbar: true,
 		coverpage: true,
 		onlyCover: false,
@@ -62,48 +69,23 @@
 			'/.*/_navbar.md' : '/_navbar.md',
 			'/.*/_sidebar.md' : '/_sidebar.md',
 			},
-		markdown: 
-			{
-			renderer: 
-				{
-				code: function(code, lang)
-					{
-					if (lang === "mermaid") 
-						{
-						var id = makeid(10);
-						var svg = mermaid.render(id, code)
-						return ('<div class="mermaid">' + svg + '</div>');
-						}
-					return this.origin.code.apply(this, arguments);
-					}
-				}
-			},
 		}
-  </script> 
-
-<script>
-    function makeid(len) {
-        var text = new Array(len);
-        var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-        for (var i = 0; i < len; i++) text[i] = possible.charAt(Math.floor(Math.random() * possible.length));
-        return text.join("");
-    }
-</script>
-
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-
-<script src="//cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.js"></script>
-<script src="//unpkg.com/docsify-mermaid@2.0.0/dist/docsify-mermaid.js"></script>
-<script type="module">
-	import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
-	mermaid.initialize
-		({
-		startOnLoad: false,
-		securityLevel: 'loose',
-		logLevel: 1
-		});
+	</script> 
+	<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+	<script src="//cdn.jsdelivr.net/npm/d3@7"></script>
+<!--	<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>-->
+	<script src="//cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.js"></script>
+	<script src="//unpkg.com/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
+    <script src="//unpkg.com/docsify-mermaid-zoom/dist/docsify-mermaid-zoom.js"></script>
+	<script type="module">
+		import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+		mermaid.initialize
+			({
+			startOnLoad: true,
+			securityLevel: 'loose',
+			logLevel: 1
+			});
 	</script>
-
 </body>
 
 </html>
