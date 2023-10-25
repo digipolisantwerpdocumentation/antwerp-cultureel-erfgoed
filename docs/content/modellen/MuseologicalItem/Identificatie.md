@@ -18,6 +18,18 @@ fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Man-Made_Object"]-->|"crm:P102_has
 fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Man-Made_Object"]-->|"crm:P138i_has_representation"|fa957146-dd27-11ed-9655-00163e71351b["crm:E36_Visual_Item"]
 fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Man-Made_Object"]-->|"crm:P2_has_type"|a0702a46-eda1-11ed-9232-00163e71351b["crm:E55_Type"]
 fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Man-Made_Object"]-->|"crm:P46i_forms_part_of"|f199cabe-466e-11ee-bc5c-00163e71351b["crm:E78_Curated_Holding"]
+a0702f0a-eda1-11ed-9232-00163e71351b["crm:E55_Type"]-.-a0702f0a-eda1-11ed-9232-00163e71351b_s(["Object type type URI"])
+a97feac2-eda1-11ed-a1e6-00163e71351b["rdfs:Literal"]-.-a97feac2-eda1-11ed-a1e6-00163e71351b_s(["Titel inhoud"])
+a97fe9a0-eda1-11ed-a1e6-00163e71351b["crm:E55_Type"]-.-a97fe9a0-eda1-11ed-a1e6-00163e71351b_s(["Titel type URI"])
+a97fecac-eda1-11ed-a1e6-00163e71351b["crm:E56_Language"]-.-a97fecac-eda1-11ed-a1e6-00163e71351b_s(["Titel taal URI"])
+d0d6692a-eda1-11ed-9655-00163e71351b["rdfs:Literal"]-.-d0d6692a-eda1-11ed-9655-00163e71351b_s(["Object identificator inhoud"])
+d0d66aba-eda1-11ed-9655-00163e71351b["crm:E55_Type"]-.-d0d66aba-eda1-11ed-9655-00163e71351b_s(["Object identificator type URI"])
+fa95c95c-dd27-11ed-9655-00163e71351b["crmdig:D1_Digital_Object"]-.-fa95c95c-dd27-11ed-9655-00163e71351b_s(["Digitaal object URI"])
+d0d661c8-eda1-11ed-9655-00163e71351b["crm:E42_Identifier"]-.-d0d661c8-eda1-11ed-9655-00163e71351b_s(["Object identificator"])
+a97fe66c-eda1-11ed-a1e6-00163e71351b["crm:E35_Title"]-.-a97fe66c-eda1-11ed-a1e6-00163e71351b_s(["Titel"])
+fa957146-dd27-11ed-9655-00163e71351b["crm:E36_Visual_Item"]-.-fa957146-dd27-11ed-9655-00163e71351b_s(["Afbeelding"])
+a0702a46-eda1-11ed-9232-00163e71351b["crm:E55_Type"]-.-a0702a46-eda1-11ed-9232-00163e71351b_s(["Object type URI"])
+f199cabe-466e-11ee-bc5c-00163e71351b["crm:E78_Curated_Holding"]-.-f199cabe-466e-11ee-bc5c-00163e71351b_s(["Collectie URI"])
 style a0702f0a-eda1-11ed-9232-00163e71351b_s stroke-dasharray: 5
 style a97feac2-eda1-11ed-a1e6-00163e71351b_s stroke-dasharray: 5
 style a97fe9a0-eda1-11ed-a1e6-00163e71351b_s stroke-dasharray: 5
@@ -30,18 +42,6 @@ style a97fe66c-eda1-11ed-a1e6-00163e71351b_s stroke-dasharray: 5
 style fa957146-dd27-11ed-9655-00163e71351b_s stroke-dasharray: 5
 style a0702a46-eda1-11ed-9232-00163e71351b_s stroke-dasharray: 5
 style f199cabe-466e-11ee-bc5c-00163e71351b_s stroke-dasharray: 5
-a0702f0a-eda1-11ed-9232-00163e71351b["crm:E55_Type"]-.-a0702f0a-eda1-11ed-9232-00163e71351b_s(["Type type uri"])
-a97feac2-eda1-11ed-a1e6-00163e71351b["rdfs:Literal"]-.-a97feac2-eda1-11ed-a1e6-00163e71351b_s(["Titel inhoud"])
-a97fe9a0-eda1-11ed-a1e6-00163e71351b["crm:E55_Type"]-.-a97fe9a0-eda1-11ed-a1e6-00163e71351b_s(["Titel type uri"])
-a97fecac-eda1-11ed-a1e6-00163e71351b["crm:E56_Language"]-.-a97fecac-eda1-11ed-a1e6-00163e71351b_s(["Titel taal uri"])
-d0d6692a-eda1-11ed-9655-00163e71351b["rdfs:Literal"]-.-d0d6692a-eda1-11ed-9655-00163e71351b_s(["Identificator inhoud"])
-d0d66aba-eda1-11ed-9655-00163e71351b["crm:E55_Type"]-.-d0d66aba-eda1-11ed-9655-00163e71351b_s(["Identificator type uri"])
-fa95c95c-dd27-11ed-9655-00163e71351b["crmdig:D1_Digital_Object"]-.-fa95c95c-dd27-11ed-9655-00163e71351b_s(["Digitaal object uri"])
-d0d661c8-eda1-11ed-9655-00163e71351b["crm:E42_Identifier"]-.-d0d661c8-eda1-11ed-9655-00163e71351b_s(["Identificator"])
-a97fe66c-eda1-11ed-a1e6-00163e71351b["crm:E35_Title"]-.-a97fe66c-eda1-11ed-a1e6-00163e71351b_s(["Titel"])
-fa957146-dd27-11ed-9655-00163e71351b["crm:E36_Visual_Item"]-.-fa957146-dd27-11ed-9655-00163e71351b_s(["Afbeelding"])
-a0702a46-eda1-11ed-9232-00163e71351b["crm:E55_Type"]-.-a0702a46-eda1-11ed-9232-00163e71351b_s(["Type uri"])
-f199cabe-466e-11ee-bc5c-00163e71351b["crm:E78_Curated_Holding"]-.-f199cabe-466e-11ee-bc5c-00163e71351b_s(["Collectie uri"])
 style a0702a46-eda1-11ed-9232-00163e71351b fill:#ffa500
 style a0702f0a-eda1-11ed-9232-00163e71351b fill:#ffa500
 style a07030ae-eda1-11ed-9232-00163e71351b fill:#D3D3D3
@@ -60,4 +60,5 @@ style d0d66aba-eda1-11ed-9655-00163e71351b fill:#ffa500
 style f199cabe-466e-11ee-bc5c-00163e71351b fill:#B0927A
 style fa957146-dd27-11ed-9655-00163e71351b fill:#ffff00
 style fa95c95c-dd27-11ed-9655-00163e71351b fill:#C5B4E3
+style fa95cea2-dd27-11ed-9655-00163e71351b fill:#B0927A
 ```

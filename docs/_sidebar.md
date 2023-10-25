@@ -3,6 +3,9 @@
 * Start
     * [Inleiding](/content/getting-started.md)
 
+* Legende
+    * [Kleurcodes](/content/modellen/color.md)
+
 * Museologisch item
 	* [Identificatie](/content/modellen/MuseologicalItem/Identificatie.md)
 	* [Aantekeningen](/content/modellen/MuseologicalItem/Aantekeningen.md)
@@ -13,6 +16,7 @@
 	* [Rechten](/content/modellen/MuseologicalItem/Rechten.md)
 	* [Vervaardiging](/content/modellen/MuseologicalItem/Vervaardiging.md)
 	* [Verwijzingen](/content/modellen/MuseologicalItem/Verwijzingen.md)
+	* [Verwant materiaal](/content/modellen/MuseologicalItem/VerwantMateriaal.md)
 
 * Bibliografisch item
 	* [Identificatie](/content/modellen/BibliographicalItem/Identificatie.md)
@@ -20,15 +24,18 @@
 	* [Bewaargegevens](/content/modellen/BibliographicalItem/Bewaargegevens.md)
 	* [Context](/content/modellen/BibliographicalItem/Context.md)
 	* [Fysieke Kenmerken](/content/modellen/BibliographicalItem/FysiekeKenmerken.md)
+	* [Inhoud](/content/modellen/BibliographicalItem/Inhoud.md)
+	* [Verwijzingen](/content/modellen/BibliographicalItem/Verwijzingen.md)
 
 * Bibliografische publicatie
-	* [Identificatie](/content/modellen/BibliographicalPublicationExpression/Identificatie.md)
-	* [Aantekeningen](/content/modellen/BibliographicalPublicationExpression/Aantekeningen.md)
-	* [Creatie](/content/modellen/BibliographicalPublicationExpression/Creatie.md)
-	* [Fysieke kenmerken](/content/modellen/BibliographicalPublicationExpression/FysiekeKenmerken.md)
-	* [Inhoud](/content/modellen/BibliographicalPublicationExpression/Inhoud.md)
-	* [Uitgave](/content/modellen/BibliographicalPublicationExpression/Uitgave.md)
-	* [Verwijzingen](/content/modellen/BibliographicalPublicationExpression/Verwijzingen.md)
+	* [Identificatie](/content/modellen/BibliographicalPublication/Identificatie.md)
+	* [Aantekeningen](/content/modellen/BibliographicalPublication/Aantekeningen.md)
+	* [Expressie creatie](/content/modellen/BibliographicalPublication/ExpressieCreatie.md)
+	* [Fysieke kenmerken](/content/modellen/BibliographicalPublication/FysiekeKenmerken.md)
+	* [Inhoud](/content/modellen/BibliographicalPublication/Inhoud.md)
+	* [Publicatie gebeurtenis](/content/modellen/BibliographicalPublication/PublicatieGebeurtenis.md)
+	* [Verwijzingen](/content/modellen/BibliographicalPublication/Verwijzingen.md)
+	* [Verwant materiaal](/content/modellen/BibliographicalPublication/VerwantMateriaal.md)
 
 * Archief item (immaterieel)
 	* [Identificatie](/content/modellen/ArchiefItemImmaterieel/Identificatie.md)
