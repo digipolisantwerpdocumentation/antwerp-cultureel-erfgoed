@@ -4,7 +4,7 @@
     * [Inleiding](/content/getting-started.md)
 
 * Legende
-    * [Kleurcodes](/content/modellen/color.md)
+    * [Kleurcodes](/content/modellen/Color.md)
 
 * Museologisch item
 	* [Identificatie](/content/modellen/MuseologicalItem/Identificatie.md)
