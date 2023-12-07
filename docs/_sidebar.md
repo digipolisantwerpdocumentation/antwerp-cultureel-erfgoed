@@ -8,34 +8,33 @@
 
 * Museologisch item
 	* [Identificatie](/content/modellen/MuseologicalItem/Identificatie.md)
-	* [Aantekeningen](/content/modellen/MuseologicalItem/Aantekeningen.md)
-	* [Bewaargegevens](/content/modellen/MuseologicalItem/Bewaargegevens.md)
-	* [Context](/content/modellen/MuseologicalItem/Context.md)
-	* [Fysieke Kenmerken](/content/modellen/MuseologicalItem/FysiekeKenmerken.md)
 	* [Inhoud](/content/modellen/MuseologicalItem/Inhoud.md)
-	* [Rechten](/content/modellen/MuseologicalItem/Rechten.md)
+	* [Fysieke Kenmerken](/content/modellen/MuseologicalItem/FysiekeKenmerken.md)
 	* [Vervaardiging](/content/modellen/MuseologicalItem/Vervaardiging.md)
+	* [Bewaargegevens](/content/modellen/MuseologicalItem/Bewaargegevens.md)
+	* [Rechten](/content/modellen/MuseologicalItem/Rechten.md)
 	* [Verwijzingen](/content/modellen/MuseologicalItem/Verwijzingen.md)
 	* [Verwant materiaal](/content/modellen/MuseologicalItem/VerwantMateriaal.md)
+	* [Context](/content/modellen/MuseologicalItem/Context.md)
+	* [Aantekeningen](/content/modellen/MuseologicalItem/Aantekeningen.md)
+
+* Bibliografische manifestatie
+	* [Identificatie](/content/modellen/BibliographicalManifestation/Identificatie.md)
+	* [Inhoud](/content/modellen/BibliographicalManifestation/Inhoud.md)
+	* [Fysieke kenmerken](/content/modellen/BibliographicalManifestation/FysiekeKenmerken.md)
+	* [Expressiecreatie](/content/modellen/BibliographicalManifestation/ExpressieCreatie.md)
+	* [Manifestatiecreatie](/content/modellen/BibliographicalManifestation/ManifestatieCreatie.md)
+	* [Bewaargegevens](/content/modellen/BibliographicalManifestation/Bewaargegevens.md)
+	* [Verwijzingen](/content/modellen/BibliographicalManifestation/Verwijzingen.md)
+	* [Verwant materiaal](/content/modellen/BibliographicalManifestation/VerwantMateriaal.md)
+	* [Aantekeningen](/content/modellen/BibliographicalManifestation/Aantekeningen.md)
 
 * Bibliografisch item
 	* [Identificatie](/content/modellen/BibliographicalItem/Identificatie.md)
-	* [Aantekeningen](/content/modellen/BibliographicalItem/Aantekeningen.md)
-	* [Bewaargegevens](/content/modellen/BibliographicalItem/Bewaargegevens.md)
-	* [Context](/content/modellen/BibliographicalItem/Context.md)
-	* [Fysieke Kenmerken](/content/modellen/BibliographicalItem/FysiekeKenmerken.md)
 	* [Inhoud](/content/modellen/BibliographicalItem/Inhoud.md)
-	* [Verwijzingen](/content/modellen/BibliographicalItem/Verwijzingen.md)
-
-* Bibliografische publicatie
-	* [Identificatie](/content/modellen/BibliographicalPublication/Identificatie.md)
-	* [Aantekeningen](/content/modellen/BibliographicalPublication/Aantekeningen.md)
-	* [Expressie creatie](/content/modellen/BibliographicalPublication/ExpressieCreatie.md)
-	* [Fysieke kenmerken](/content/modellen/BibliographicalPublication/FysiekeKenmerken.md)
-	* [Inhoud](/content/modellen/BibliographicalPublication/Inhoud.md)
-	* [Publicatie gebeurtenis](/content/modellen/BibliographicalPublication/PublicatieGebeurtenis.md)
-	* [Verwijzingen](/content/modellen/BibliographicalPublication/Verwijzingen.md)
-	* [Verwant materiaal](/content/modellen/BibliographicalPublication/VerwantMateriaal.md)
+	* [Fysieke Kenmerken](/content/modellen/BibliographicalItem/FysiekeKenmerken.md)
+	* [Context](/content/modellen/BibliographicalItem/Context.md)
+	* [Aantekeningen](/content/modellen/BibliographicalItem/Aantekeningen.md)
 
 * Archief item (immaterieel)
 	* [Identificatie](/content/modellen/ArchiefItemImmaterieel/Identificatie.md)
