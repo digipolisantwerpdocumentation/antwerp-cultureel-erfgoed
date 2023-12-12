@@ -36,7 +36,7 @@
 	* [Context](/content/modellen/BibliographicalItem/Context.md)
 	* [Aantekeningen](/content/modellen/BibliographicalItem/Aantekeningen.md)
 
-* Archief item (immaterieel)
+* Objectbeschrijving archief (inhoudelijk)
 	* [Identificatie](/content/modellen/ArchiefItemImmaterieel/Identificatie.md)
 	* [Aantekeningen](/content/modellen/ArchiefItemImmaterieel/Aantekeningen.md)
 	* [Creatie](/content/modellen/ArchiefItemImmaterieel/Creatie.md)
@@ -46,11 +46,12 @@
 	* [Verwant materiaal](/content/modellen/ArchiefItemImmaterieel/VerwantMateriaal.md)
 	* [Verwijzingen](/content/modellen/ArchiefItemImmaterieel/Verwijzingen.md)
 
-* Archief item (materieel)
+* Objectbeschrijving archief (fysieke kenmerken)
 	* [Identificatie](/content/modellen/ArchiefItemMaterieel/Identificatie.md)
 	* [Aantekeningen](/content/modellen/ArchiefItemMaterieel/Aantekeningen.md)
 	* [Afbeeldingen](/content/modellen/ArchiefItemMaterieel/Afbeeldingen.md)
 	* [Bewaargegevens](/content/modellen/ArchiefItemMaterieel/Bewaargegevens.md)
+	* [Herkomst](/content/modellen/ArchiefItemMaterieel/Herkomst.md)
 	* [Context](/content/modellen/ArchiefItemMaterieel/Context.md)
 	* [Fysieke kenmerken](/content/modellen/ArchiefItemMaterieel/FysiekeKenmerken.md)
 	* [Objectstatus](/content/modellen/ArchiefItemMaterieel/Objectstatus.md)
