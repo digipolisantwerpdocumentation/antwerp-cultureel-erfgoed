@@ -33,7 +33,7 @@
 	* [Identificatie](/content/modellen/BibliographicalItem/Identificatie.md)
 	* [Inhoud](/content/modellen/BibliographicalItem/Inhoud.md)
 	* [Fysieke Kenmerken](/content/modellen/BibliographicalItem/FysiekeKenmerken.md)
-	* [Context](/content/modellen/BibliographicalItem/Context.md)
+	* [Herkomst](/content/modellen/BibliographicalItem/Herkomst.md)
 	* [Aantekeningen](/content/modellen/BibliographicalItem/Aantekeningen.md)
 
 * Objectbeschrijving archief (inhoudelijk)
