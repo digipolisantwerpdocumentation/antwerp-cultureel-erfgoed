@@ -49,34 +49,48 @@ graph LR
 17e10d4c-8e93-11ee-8f9d-96a6d245525a["crm:E33_Linguistic_Object"]-->|"crm:P2_has_type"|17e10eaa-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]
 17e10d4c-8e93-11ee-8f9d-96a6d245525a["crm:E33_Linguistic_Object"]-->|"crm:P72_has_language"|17e10f36-8e93-11ee-8f9d-96a6d245525a["crm:E56_Language"]
 17e10d92-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-->|"crm:P2_has_type"|17e0f820-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]
-0990ab90-936e-11ee-8276-960002548b4f["crm:E55_Type"]-.-0990ab90-936e-11ee-8276-960002548b4f_s(["Type "mediumtype""])
+0990ab90-936e-11ee-8276-960002548b4f["crm:E55_Type"]-.-0990ab90-936e-11ee-8276-960002548b4f_s(["Mediumtype type"])
+17e0f8f2-8e93-11ee-8f9d-96a6d245525a["crm:E33_Linguistic_Object"]-.-17e0f8f2-8e93-11ee-8f9d-96a6d245525a_s(["Collation Accompanying Material"])
+17e0fcee-8e93-11ee-8f9d-96a6d245525a["crm:E33_Linguistic_Object"]-.-17e0fcee-8e93-11ee-8f9d-96a6d245525a_s(["Collation ISBD"])
+17e1059a-8e93-11ee-8f9d-96a6d245525a["crm:E33_Linguistic_Object"]-.-17e1059a-8e93-11ee-8f9d-96a6d245525a_s(["Collation Illustration"])
+17e10798-8e93-11ee-8f9d-96a6d245525a["crm:E33_Linguistic_Object"]-.-17e10798-8e93-11ee-8f9d-96a6d245525a_s(["Collation Size"])
+17e10d4c-8e93-11ee-8f9d-96a6d245525a["crm:E33_Linguistic_Object"]-.-17e10d4c-8e93-11ee-8f9d-96a6d245525a_s(["Collation Pagination"])
 17e0fff0-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e0fff0-8e93-11ee-8f9d-96a6d245525a_s(["Formaat"])
 17e10d92-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e10d92-8e93-11ee-8f9d-96a6d245525a_s(["Collatie type"])
+17e10a4a-8e93-11ee-8f9d-96a6d245525a["crm:E33_Linguistic_Object"]-.-17e10a4a-8e93-11ee-8f9d-96a6d245525a_s(["Collation Section Structure"])
 0990a97a-936e-11ee-a1bf-960002548b4f["crm:E55_Type"]-.-0990a97a-936e-11ee-a1bf-960002548b4f_s(["Mediumtype"])
+17e0d156-8e93-11ee-8f9d-96a6d245525a["crm:E54_Dimension"]-.-17e0d156-8e93-11ee-8f9d-96a6d245525a_s(["Dimension"])
 17e0f938-8e93-11ee-8f9d-96a6d245525a["rdfs:Literal"]-.-17e0f938-8e93-11ee-8f9d-96a6d245525a_s(["Begeleidend materiaal"])
-17e0f9c4-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e0f9c4-8e93-11ee-8f9d-96a6d245525a_s(["Type "begeleidend materiaal""])
+17e0f9c4-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e0f9c4-8e93-11ee-8f9d-96a6d245525a_s(["Begeleidend materiaal type"])
 17e0fa96-8e93-11ee-8f9d-96a6d245525a["crm:E56_Language"]-.-17e0fa96-8e93-11ee-8f9d-96a6d245525a_s(["Begeleidend materiaal taal"])
 17e0fd34-8e93-11ee-8f9d-96a6d245525a["rdfs:Literal"]-.-17e0fd34-8e93-11ee-8f9d-96a6d245525a_s(["Collatie ISBD"])
-17e0fdc0-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e0fdc0-8e93-11ee-8f9d-96a6d245525a_s(["Type "collatie ISBD""])
+17e0fdc0-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e0fdc0-8e93-11ee-8f9d-96a6d245525a_s(["Collatie ISBD type"])
 17e0fe60-8e93-11ee-8f9d-96a6d245525a["crm:E56_Language"]-.-17e0fe60-8e93-11ee-8f9d-96a6d245525a_s(["Collatie ISBD taal"])
-17e10036-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e10036-8e93-11ee-8f9d-96a6d245525a_s(["Type "formaat""])
+17e10036-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e10036-8e93-11ee-8f9d-96a6d245525a_s(["Formaat type"])
 17e105e0-8e93-11ee-8f9d-96a6d245525a["rdfs:Literal"]-.-17e105e0-8e93-11ee-8f9d-96a6d245525a_s(["Illustratie"])
-17e10676-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e10676-8e93-11ee-8f9d-96a6d245525a_s(["Type "Illustratie""])
+17e10676-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e10676-8e93-11ee-8f9d-96a6d245525a_s(["Illustratie type"])
 17e10702-8e93-11ee-8f9d-96a6d245525a["crm:E56_Language"]-.-17e10702-8e93-11ee-8f9d-96a6d245525a_s(["Illustratie taal"])
 17e107de-8e93-11ee-8f9d-96a6d245525a["rdfs:Literal"]-.-17e107de-8e93-11ee-8f9d-96a6d245525a_s(["Omvang"])
-17e1086a-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e1086a-8e93-11ee-8f9d-96a6d245525a_s(["Type "omvang""])
+17e1086a-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e1086a-8e93-11ee-8f9d-96a6d245525a_s(["Omvang type"])
 17e108f6-8e93-11ee-8f9d-96a6d245525a["crm:E56_Language"]-.-17e108f6-8e93-11ee-8f9d-96a6d245525a_s(["Omvang taal"])
 17e10a90-8e93-11ee-8f9d-96a6d245525a["rdfs:Literal"]-.-17e10a90-8e93-11ee-8f9d-96a6d245525a_s(["Katernopbouw"])
-17e10b1c-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e10b1c-8e93-11ee-8f9d-96a6d245525a_s(["Type "katernopbouw""])
+17e10b1c-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e10b1c-8e93-11ee-8f9d-96a6d245525a_s(["Katernopbouw type"])
 17e10bee-8e93-11ee-8f9d-96a6d245525a["crm:E56_Language"]-.-17e10bee-8e93-11ee-8f9d-96a6d245525a_s(["Katernopbouw taal"])
 17e10e28-8e93-11ee-8f9d-96a6d245525a["rdfs:Literal"]-.-17e10e28-8e93-11ee-8f9d-96a6d245525a_s(["Paginering"])
-17e10eaa-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e10eaa-8e93-11ee-8f9d-96a6d245525a_s(["Type "paginering""])
+17e10eaa-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e10eaa-8e93-11ee-8f9d-96a6d245525a_s(["Paginering type"])
 17e10f36-8e93-11ee-8f9d-96a6d245525a["crm:E56_Language"]-.-17e10f36-8e93-11ee-8f9d-96a6d245525a_s(["Paginering taal"])
-17e0f820-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e0f820-8e93-11ee-8f9d-96a6d245525a_s(["Type "collatietype""])
+17e0f820-8e93-11ee-8f9d-96a6d245525a["crm:E55_Type"]-.-17e0f820-8e93-11ee-8f9d-96a6d245525a_s(["Collatie type type"])
 style 0990ab90-936e-11ee-8276-960002548b4f_s stroke-dasharray: 5
+style 17e0f8f2-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
+style 17e0fcee-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
+style 17e1059a-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
+style 17e10798-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
+style 17e10d4c-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
 style 17e0fff0-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
 style 17e10d92-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
+style 17e10a4a-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
 style 0990a97a-936e-11ee-a1bf-960002548b4f_s stroke-dasharray: 5
+style 17e0d156-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
 style 17e0f938-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
 style 17e0f9c4-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5
 style 17e0fa96-8e93-11ee-8f9d-96a6d245525a_s stroke-dasharray: 5

@@ -74,36 +74,36 @@ style 3b2194d8-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
 style 3b219744-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
 style 3b219a8c-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
 style 3b21a34c-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
-3b21a7d4-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21a7d4-04fb-11ee-9497-96a6d2455259_s(["Beschrijving inhoud"])
-3b21a82e-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21a82e-04fb-11ee-9497-96a6d2455259_s(["Beschrijving type uri"])
-3b21a87e-04fb-11ee-9497-96a6d2455259["crm:E56_Language"]-.-3b21a87e-04fb-11ee-9497-96a6d2455259_s(["Beschrijving taal uri"])
-3b21a91e-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21a91e-04fb-11ee-9497-96a6d2455259_s(["Standplaats aantekening tekst"])
-3b21a978-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-.-3b21a978-04fb-11ee-9497-96a6d2455259_s(["Standplaats instelling uri"])
-3b21abb2-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21abb2-04fb-11ee-9497-96a6d2455259_s(["Afmeting type uri"])
-3b21ab62-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21ab62-04fb-11ee-9497-96a6d2455259_s(["Afmeting aantekening tekst"])
+3b21a7d4-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21a7d4-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid beschrijving"])
+3b21a82e-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21a82e-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid beschrijving type"])
+3b21a87e-04fb-11ee-9497-96a6d2455259["crm:E56_Language"]-.-3b21a87e-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid beschrijving taal"])
+3b21a91e-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21a91e-04fb-11ee-9497-96a6d2455259_s(["Huidige standplaats opmerking"])
+3b21a978-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-.-3b21a978-04fb-11ee-9497-96a6d2455259_s(["Huidige standplaats instelling"])
+3b21abb2-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21abb2-04fb-11ee-9497-96a6d2455259_s(["Afmeting type"])
+3b21ab62-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21ab62-04fb-11ee-9497-96a6d2455259_s(["Afmeting opmerking"])
 3b21aac2-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21aac2-04fb-11ee-9497-96a6d2455259_s(["Afmeting waarde"])
-3b21ab12-04fb-11ee-9497-96a6d2455259["crm:E58_Measurement_Unit"]-.-3b21ab12-04fb-11ee-9497-96a6d2455259_s(["Afmeting eenheid uri"])
-3b21ac02-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21ac02-04fb-11ee-9497-96a6d2455259_s(["Identificator inhoud"])
-3b21ac52-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21ac52-04fb-11ee-9497-96a6d2455259_s(["Identificator type uri"])
-3b21ade2-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21ade2-04fb-11ee-9497-96a6d2455259_s(["Titel inhoud"])
-3b21ad92-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21ad92-04fb-11ee-9497-96a6d2455259_s(["Titel type uri"])
-3b21acf2-04fb-11ee-9497-96a6d2455259["crm:E56_Language"]-.-3b21acf2-04fb-11ee-9497-96a6d2455259_s(["Titel taal uri"])
-3b21ae82-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21ae82-04fb-11ee-9497-96a6d2455259_s(["Type type uri"])
-3b21b012-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21b012-04fb-11ee-9497-96a6d2455259_s(["Aantekening inhoud"])
-3b21af72-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21af72-04fb-11ee-9497-96a6d2455259_s(["Aantekening type uri"])
-3b21afc2-04fb-11ee-9497-96a6d2455259["crm:E56_Language"]-.-3b21afc2-04fb-11ee-9497-96a6d2455259_s(["Aantekening taal uri"])
-3b21b10c-04fb-11ee-9497-96a6d2455259["crmdig:D1_Digital_Object"]-.-3b21b10c-04fb-11ee-9497-96a6d2455259_s(["Digitaal object uri"])
-3b219d7a-04fb-11ee-9497-96a6d2455259["crm:E42_Identifier"]-.-3b219d7a-04fb-11ee-9497-96a6d2455259_s(["Identificator"])
-3b21a068-04fb-11ee-9497-96a6d2455259["crm:E35_Title"]-.-3b21a068-04fb-11ee-9497-96a6d2455259_s(["Titel"])
-3b2198de-04fb-11ee-9497-96a6d2455259["crm:E33_Linguistic_Object"]-.-3b2198de-04fb-11ee-9497-96a6d2455259_s(["Beschrijving"])
-3b21a4e6-04fb-11ee-9497-96a6d2455259["crm:E36_Visual_Item"]-.-3b21a4e6-04fb-11ee-9497-96a6d2455259_s(["Afbeelding"])
-3b21a1da-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21a1da-04fb-11ee-9497-96a6d2455259_s(["Type uri"])
-3b219eec-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b219eec-04fb-11ee-9497-96a6d2455259_s(["Opmerking tekst"])
-3b219c08-04fb-11ee-9497-96a6d2455259["crm:E54_Dimension"]-.-3b219c08-04fb-11ee-9497-96a6d2455259_s(["Afmeting"])
-3b2194d8-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-.-3b2194d8-04fb-11ee-9497-96a6d2455259_s(["Huidige beheerder uri"])
-3b219744-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-.-3b219744-04fb-11ee-9497-96a6d2455259_s(["Huidige eigenaar uri"])
-3b219a8c-04fb-11ee-9497-96a6d2455259["crm:E53_Place"]-.-3b219a8c-04fb-11ee-9497-96a6d2455259_s(["Huidige standplaats"])
-3b21a34c-04fb-11ee-9497-96a6d2455259["crm:E33_Linguistic_Object"]-.-3b21a34c-04fb-11ee-9497-96a6d2455259_s(["Aantekening"])
+3b21ab12-04fb-11ee-9497-96a6d2455259["crm:E58_Measurement_Unit"]-.-3b21ab12-04fb-11ee-9497-96a6d2455259_s(["Afmeting eenheid"])
+3b21ac02-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21ac02-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid identificator"])
+3b21ac52-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21ac52-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid identificator type"])
+3b21ade2-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21ade2-04fb-11ee-9497-96a6d2455259_s(["Titel"])
+3b21ad92-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21ad92-04fb-11ee-9497-96a6d2455259_s(["Titel type"])
+3b21acf2-04fb-11ee-9497-96a6d2455259["crm:E56_Language"]-.-3b21acf2-04fb-11ee-9497-96a6d2455259_s(["Titel taal"])
+3b21ae82-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21ae82-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid type type"])
+3b21b012-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21b012-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid toelichting"])
+3b21af72-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21af72-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid toelichting type"])
+3b21afc2-04fb-11ee-9497-96a6d2455259["crm:E56_Language"]-.-3b21afc2-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid toelichting taal"])
+3b21b10c-04fb-11ee-9497-96a6d2455259["crmdig:D1_Digital_Object"]-.-3b21b10c-04fb-11ee-9497-96a6d2455259_s(["Digitaal object"])
+3b219d7a-04fb-11ee-9497-96a6d2455259["crm:E42_Identifier"]-.-3b219d7a-04fb-11ee-9497-96a6d2455259_s(["Identifier"])
+3b21a068-04fb-11ee-9497-96a6d2455259["crm:E35_Title"]-.-3b21a068-04fb-11ee-9497-96a6d2455259_s(["Title"])
+3b2198de-04fb-11ee-9497-96a6d2455259["crm:E33_Linguistic_Object"]-.-3b2198de-04fb-11ee-9497-96a6d2455259_s(["Description"])
+3b21a4e6-04fb-11ee-9497-96a6d2455259["crm:E36_Visual_Item"]-.-3b21a4e6-04fb-11ee-9497-96a6d2455259_s(["Visual Item"])
+3b21a1da-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21a1da-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid type"])
+3b219eec-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b219eec-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid opmerking"])
+3b219c08-04fb-11ee-9497-96a6d2455259["crm:E54_Dimension"]-.-3b219c08-04fb-11ee-9497-96a6d2455259_s(["Dimension"])
+3b2194d8-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-.-3b2194d8-04fb-11ee-9497-96a6d2455259_s(["Huidige beheerder"])
+3b219744-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-.-3b219744-04fb-11ee-9497-96a6d2455259_s(["Huidige eigenaar"])
+3b219a8c-04fb-11ee-9497-96a6d2455259["crm:E53_Place"]-.-3b219a8c-04fb-11ee-9497-96a6d2455259_s(["Current Location"])
+3b21a34c-04fb-11ee-9497-96a6d2455259["crm:E33_Linguistic_Object"]-.-3b21a34c-04fb-11ee-9497-96a6d2455259_s(["Annotation"])
 style 3b2194d8-04fb-11ee-9497-96a6d2455259 fill:#ffc0cb
 style 3b219744-04fb-11ee-9497-96a6d2455259 fill:#ffc0cb
 style 3b2198de-04fb-11ee-9497-96a6d2455259 fill:#ffff00
@@ -117,6 +117,7 @@ style 3b21a34c-04fb-11ee-9497-96a6d2455259 fill:#ffff00
 style 3b21a4e6-04fb-11ee-9497-96a6d2455259 fill:#ffff00
 style 3b21a662-04fb-11ee-9497-96a6d2455259 fill:#D3D3D3
 style 3b21a6e4-04fb-11ee-9497-96a6d2455259 fill:#D3D3D3
+style 3b21a73e-04fb-11ee-9497-96a6d2455259 fill:#B0927A
 style 3b21a784-04fb-11ee-9497-96a6d2455259 fill:#D3D3D3
 style 3b21a7d4-04fb-11ee-9497-96a6d2455259 fill:#D3D3D3
 style 3b21a82e-04fb-11ee-9497-96a6d2455259 fill:#ffa500

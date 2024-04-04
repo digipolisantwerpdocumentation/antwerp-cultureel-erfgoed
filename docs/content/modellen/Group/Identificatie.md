@@ -16,6 +16,16 @@ cc86dc96-e37f-11ed-9655-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|cc86de3a-e3
 45a2fade-e37f-11ed-9064-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-->|"crm:P2_has_type"|45a2fc28-e37f-11ed-9064-00163e71351b["crm:E55_Type"]
 45a2fade-e37f-11ed-9064-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-->|"crm:P72_has_language"|45a2f07a-e37f-11ed-9064-00163e71351b["crm:E56_Language"]
 cc86d7fa-e37f-11ed-9655-00163e71351b["crm:E55_Type"]-->|"crm:P2_has_type"|cc86dc96-e37f-11ed-9655-00163e71351b["crm:E55_Type"]
+45a2ea12-e37f-11ed-9064-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-.-45a2ea12-e37f-11ed-9064-00163e71351b_s(["Appellation"])
+cc86d7fa-e37f-11ed-9655-00163e71351b["crm:E55_Type"]-.-cc86d7fa-e37f-11ed-9655-00163e71351b_s(["Groep type"])
+45a2fade-e37f-11ed-9064-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-.-45a2fade-e37f-11ed-9064-00163e71351b_s(["Appellation Part"])
+45a2f494-e37f-11ed-9064-00163e71351b["rdfs:Literal"]-.-45a2f494-e37f-11ed-9064-00163e71351b_s(["Groep naam"])
+45a2f71e-e37f-11ed-9064-00163e71351b["crm:E55_Type"]-.-45a2f71e-e37f-11ed-9064-00163e71351b_s(["Groep naam type"])
+45a2f5de-e37f-11ed-9064-00163e71351b["crm:E56_Language"]-.-45a2f5de-e37f-11ed-9064-00163e71351b_s(["Groep naam taal"])
+45a2f340-e37f-11ed-9064-00163e71351b["rdfs:Literal"]-.-45a2f340-e37f-11ed-9064-00163e71351b_s(["Groep naam deel"])
+45a2fc28-e37f-11ed-9064-00163e71351b["crm:E55_Type"]-.-45a2fc28-e37f-11ed-9064-00163e71351b_s(["Groep naam deel type"])
+45a2f07a-e37f-11ed-9064-00163e71351b["crm:E56_Language"]-.-45a2f07a-e37f-11ed-9064-00163e71351b_s(["Groep naam deel taal"])
+cc86dc96-e37f-11ed-9655-00163e71351b["crm:E55_Type"]-.-cc86dc96-e37f-11ed-9655-00163e71351b_s(["Groep type type"])
 style 45a2ea12-e37f-11ed-9064-00163e71351b_s stroke-dasharray: 5
 style cc86d7fa-e37f-11ed-9655-00163e71351b_s stroke-dasharray: 5
 style 45a2fade-e37f-11ed-9064-00163e71351b_s stroke-dasharray: 5
@@ -26,17 +36,8 @@ style 45a2f340-e37f-11ed-9064-00163e71351b_s stroke-dasharray: 5
 style 45a2fc28-e37f-11ed-9064-00163e71351b_s stroke-dasharray: 5
 style 45a2f07a-e37f-11ed-9064-00163e71351b_s stroke-dasharray: 5
 style cc86dc96-e37f-11ed-9655-00163e71351b_s stroke-dasharray: 5
-45a2ea12-e37f-11ed-9064-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-.-45a2ea12-e37f-11ed-9064-00163e71351b_s(["Naam"])
-cc86d7fa-e37f-11ed-9655-00163e71351b["crm:E55_Type"]-.-cc86d7fa-e37f-11ed-9655-00163e71351b_s(["Type uri"])
-45a2fade-e37f-11ed-9064-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-.-45a2fade-e37f-11ed-9064-00163e71351b_s(["Naam deel"])
-45a2f494-e37f-11ed-9064-00163e71351b["rdfs:Literal"]-.-45a2f494-e37f-11ed-9064-00163e71351b_s(["Naam inhoud"])
-45a2f71e-e37f-11ed-9064-00163e71351b["crm:E55_Type"]-.-45a2f71e-e37f-11ed-9064-00163e71351b_s(["Naam type uri"])
-45a2f5de-e37f-11ed-9064-00163e71351b["crm:E56_Language"]-.-45a2f5de-e37f-11ed-9064-00163e71351b_s(["Naam taal uri"])
-45a2f340-e37f-11ed-9064-00163e71351b["rdfs:Literal"]-.-45a2f340-e37f-11ed-9064-00163e71351b_s(["Naam deel inhoud"])
-45a2fc28-e37f-11ed-9064-00163e71351b["crm:E55_Type"]-.-45a2fc28-e37f-11ed-9064-00163e71351b_s(["Naam deel type uri"])
-45a2f07a-e37f-11ed-9064-00163e71351b["crm:E56_Language"]-.-45a2f07a-e37f-11ed-9064-00163e71351b_s(["Naam deel taal uri"])
-cc86dc96-e37f-11ed-9655-00163e71351b["crm:E55_Type"]-.-cc86dc96-e37f-11ed-9655-00163e71351b_s(["Type type uri"])
-style 45a2ea12-e37f-11ed-9064-00163e71351b fill:#ffff00
+style 1456bf2e-e37f-11ed-a1e6-00163e71351b fill:#ffc0cb
+style 45a2ea12-e37f-11ed-9064-00163e71351b fill:#EEE8AA
 style 45a2eee0-e37f-11ed-9064-00163e71351b fill:#D3D3D3
 style 45a2f07a-e37f-11ed-9064-00163e71351b fill:#ffa500
 style 45a2f1ec-e37f-11ed-9064-00163e71351b fill:#D3D3D3
@@ -46,7 +47,7 @@ style 45a2f5de-e37f-11ed-9064-00163e71351b fill:#ffa500
 style 45a2f71e-e37f-11ed-9064-00163e71351b fill:#ffa500
 style 45a2f85e-e37f-11ed-9064-00163e71351b fill:#D3D3D3
 style 45a2f994-e37f-11ed-9064-00163e71351b fill:#D3D3D3
-style 45a2fade-e37f-11ed-9064-00163e71351b fill:#ffff00
+style 45a2fade-e37f-11ed-9064-00163e71351b fill:#EEE8AA
 style 45a2fc28-e37f-11ed-9064-00163e71351b fill:#ffa500
 style cc86d7fa-e37f-11ed-9655-00163e71351b fill:#ffa500
 style cc86dc96-e37f-11ed-9655-00163e71351b fill:#ffa500

@@ -8,17 +8,18 @@ a25ea6ca-c7e5-11ed-bbe2-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|a25eab52-c7
 5c49f282-be8c-11ed-beba-96a6d245525a["crm:E55_Type"]-->|"crm:P2_has_type"|a25ea6ca-c7e5-11ed-bbe2-00163e71351b["crm:E55_Type"]
 856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-->|"crm:P2_has_type"|856afc12-c7e5-11ed-af84-00163e71351b["crm:E55_Type"]
 856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-->|"crm:P72_has_language"|856afa78-c7e5-11ed-af84-00163e71351b["crm:E56_Language"]
+856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-.-856af5be-c7e5-11ed-af84-00163e71351b_s(["Appellation"])
+a25ea6ca-c7e5-11ed-bbe2-00163e71351b["crm:E55_Type"]-.-a25ea6ca-c7e5-11ed-bbe2-00163e71351b_s(["Concept type"])
+856afd7a-c7e5-11ed-af84-00163e71351b["rdfs:Literal"]-.-856afd7a-c7e5-11ed-af84-00163e71351b_s(["Concept naam"])
+856afc12-c7e5-11ed-af84-00163e71351b["crm:E55_Type"]-.-856afc12-c7e5-11ed-af84-00163e71351b_s(["Concept naam type"])
+856afa78-c7e5-11ed-af84-00163e71351b["crm:E56_Language"]-.-856afa78-c7e5-11ed-af84-00163e71351b_s(["Concept naam taal"])
 style 856af5be-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
 style a25ea6ca-c7e5-11ed-bbe2-00163e71351b_s stroke-dasharray: 5
 style 856afd7a-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
 style 856afc12-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
 style 856afa78-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
-856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-.-856af5be-c7e5-11ed-af84-00163e71351b_s(["Naam"])
-a25ea6ca-c7e5-11ed-bbe2-00163e71351b["crm:E55_Type"]-.-a25ea6ca-c7e5-11ed-bbe2-00163e71351b_s(["Type uri"])
-856afd7a-c7e5-11ed-af84-00163e71351b["rdfs:Literal"]-.-856afd7a-c7e5-11ed-af84-00163e71351b_s(["Naam inhoud"])
-856afc12-c7e5-11ed-af84-00163e71351b["crm:E55_Type"]-.-856afc12-c7e5-11ed-af84-00163e71351b_s(["Naam type uri"])
-856afa78-c7e5-11ed-af84-00163e71351b["crm:E56_Language"]-.-856afa78-c7e5-11ed-af84-00163e71351b_s(["Naam taal uri"])
-style 856af5be-c7e5-11ed-af84-00163e71351b fill:#ffff00
+style 5c49f282-be8c-11ed-beba-96a6d245525a fill:#ffa500
+style 856af5be-c7e5-11ed-af84-00163e71351b fill:#EEE8AA
 style 856afa78-c7e5-11ed-af84-00163e71351b fill:#ffa500
 style 856afc12-c7e5-11ed-af84-00163e71351b fill:#ffa500
 style 856afd7a-c7e5-11ed-af84-00163e71351b fill:#D3D3D3

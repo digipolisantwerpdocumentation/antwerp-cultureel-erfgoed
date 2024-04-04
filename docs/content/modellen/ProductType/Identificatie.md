@@ -1,12 +1,5 @@
 ```mermaid
 graph LR
-908c5cfe-4728-11ee-974d-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|908c621c-4728-11ee-974d-00163e71351b(xsd:string)
-908c60d2-4728-11ee-974d-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|908c6316-4728-11ee-974d-00163e71351b(xsd:string)
-9d479c02-5230-11ee-a9ac-00163e71351b["crm:E35_Title"]-->|"crm:P190_has_symbolic_content"|9d47a116-5230-11ee-a9ac-00163e71351b(rdfs:Literal)
-9d479fd6-5230-11ee-a9ac-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|9d47a3d2-5230-11ee-a9ac-00163e71351b(xsd:string)
-9d47a2f6-5230-11ee-a9ac-00163e71351b["crm:E56_Language"]-->|"rdfs:label"|9d47a210-5230-11ee-a9ac-00163e71351b(xsd:string)
-b015b84e-471a-11ee-974d-00163e71351b["crm:E42_Identifier"]-->|"crm:P190_has_symbolic_content"|b015bd80-471a-11ee-974d-00163e71351b(rdfs:Literal)
-b015be84-471a-11ee-974d-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|b015bc40-471a-11ee-974d-00163e71351b(xsd:string)
 7892caec-471a-11ee-a9ac-00163e71351b["crm:E99_Product_Type"]-->|"crm:P1_is_identified_by"|b015b84e-471a-11ee-974d-00163e71351b["crm:E42_Identifier"]
 7892caec-471a-11ee-a9ac-00163e71351b["crm:E99_Product_Type"]-->|"crm:P102_has_title"|9d479c02-5230-11ee-a9ac-00163e71351b["crm:E35_Title"]
 7892caec-471a-11ee-a9ac-00163e71351b["crm:E99_Product_Type"]-->|"crm:P127_has_broader_term"|d1a3d1cc-5222-11ee-974d-00163e71351b["crm:E99_Product_Type"]
@@ -19,6 +12,13 @@ b015be84-471a-11ee-974d-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|b015bc40-47
 9d479c02-5230-11ee-a9ac-00163e71351b["crm:E35_Title"]-->|"crm:P2_has_type"|9d479fd6-5230-11ee-a9ac-00163e71351b["crm:E55_Type"]
 9d479c02-5230-11ee-a9ac-00163e71351b["crm:E35_Title"]-->|"crm:P72_has_language"|9d47a2f6-5230-11ee-a9ac-00163e71351b["crm:E56_Language"]
 b015b84e-471a-11ee-974d-00163e71351b["crm:E42_Identifier"]-->|"crm:P2_has_type"|b015be84-471a-11ee-974d-00163e71351b["crm:E55_Type"]
+908c5cfe-4728-11ee-974d-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|908c621c-4728-11ee-974d-00163e71351b(xsd:string)
+908c60d2-4728-11ee-974d-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|908c6316-4728-11ee-974d-00163e71351b(xsd:string)
+9d479c02-5230-11ee-a9ac-00163e71351b["crm:E35_Title"]-->|"crm:P190_has_symbolic_content"|9d47a116-5230-11ee-a9ac-00163e71351b(rdfs:Literal)
+9d479fd6-5230-11ee-a9ac-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|9d47a3d2-5230-11ee-a9ac-00163e71351b(xsd:string)
+9d47a2f6-5230-11ee-a9ac-00163e71351b["crm:E56_Language"]-->|"rdfs:label"|9d47a210-5230-11ee-a9ac-00163e71351b(xsd:string)
+b015b84e-471a-11ee-974d-00163e71351b["crm:E42_Identifier"]-->|"crm:P190_has_symbolic_content"|b015bd80-471a-11ee-974d-00163e71351b(rdfs:Literal)
+b015be84-471a-11ee-974d-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|b015bc40-471a-11ee-974d-00163e71351b(xsd:string)
 style b015b84e-471a-11ee-974d-00163e71351b_s stroke-dasharray: 5
 style 9d479c02-5230-11ee-a9ac-00163e71351b_s stroke-dasharray: 5
 style d1a3d1cc-5222-11ee-974d-00163e71351b_s stroke-dasharray: 5

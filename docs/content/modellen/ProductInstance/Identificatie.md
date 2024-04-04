@@ -1,10 +1,5 @@
 ```mermaid
 graph LR
-1ad0637c-56bc-11ee-bc5c-00163e71351b["crm:E35_Title"]-->|"crm:P190_has_symbolic_content"|1ad06840-56bc-11ee-bc5c-00163e71351b(rdfs:Literal)
-1ad0670a-56bc-11ee-bc5c-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|1ad06af2-56bc-11ee-bc5c-00163e71351b(xsd:string)
-1ad06a16-56bc-11ee-bc5c-00163e71351b["crm:E56_Language"]-->|"rdfs:label"|1ad06930-56bc-11ee-bc5c-00163e71351b(xsd:string)
-44f467c6-5233-11ee-a9ac-00163e71351b["crm:E42_Identifier"]-->|"crm:P190_has_symbolic_content"|44f46d84-5233-11ee-a9ac-00163e71351b(rdfs:Literal)
-44f46bd6-5233-11ee-a9ac-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|44f46eec-5233-11ee-a9ac-00163e71351b(xsd:string)
 1ad0637c-56bc-11ee-bc5c-00163e71351b["crm:E35_Title"]-->|"crm:P2_has_type"|1ad0670a-56bc-11ee-bc5c-00163e71351b["crm:E55_Type"]
 1ad0637c-56bc-11ee-bc5c-00163e71351b["crm:E35_Title"]-->|"crm:P72_has_language"|1ad06a16-56bc-11ee-bc5c-00163e71351b["crm:E56_Language"]
 44f46230-5233-11ee-a9ac-00163e71351b["crm:E15_Identifier_Assignment"]-->|"crm:P14_carried_out_by"|44f4704a-5233-11ee-a9ac-00163e71351b["crm:E39_Actor"]
@@ -13,6 +8,11 @@ graph LR
 9503f17e-4729-11ee-974d-00163e71351b["crm:E22_Man-Made_Object"]-->|"crm:P102_has_title"|1ad0637c-56bc-11ee-bc5c-00163e71351b["crm:E35_Title"]
 9503f17e-4729-11ee-974d-00163e71351b["crm:E22_Man-Made_Object"]-->|"crm:P137_exemplifies"|5b5c4a00-472b-11ee-a9ac-00163e71351b["crm:E99_Product_Type"]
 9503f17e-4729-11ee-974d-00163e71351b["crm:E22_Man-Made_Object"]-->|"crm:P140i_was_attributed_by"|44f46230-5233-11ee-a9ac-00163e71351b["crm:E15_Identifier_Assignment"]
+1ad0637c-56bc-11ee-bc5c-00163e71351b["crm:E35_Title"]-->|"crm:P190_has_symbolic_content"|1ad06840-56bc-11ee-bc5c-00163e71351b(rdfs:Literal)
+1ad0670a-56bc-11ee-bc5c-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|1ad06af2-56bc-11ee-bc5c-00163e71351b(xsd:string)
+1ad06a16-56bc-11ee-bc5c-00163e71351b["crm:E56_Language"]-->|"rdfs:label"|1ad06930-56bc-11ee-bc5c-00163e71351b(xsd:string)
+44f467c6-5233-11ee-a9ac-00163e71351b["crm:E42_Identifier"]-->|"crm:P190_has_symbolic_content"|44f46d84-5233-11ee-a9ac-00163e71351b(rdfs:Literal)
+44f46bd6-5233-11ee-a9ac-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|44f46eec-5233-11ee-a9ac-00163e71351b(xsd:string)
 style 1ad06840-56bc-11ee-bc5c-00163e71351b_s stroke-dasharray: 5
 style 1ad0670a-56bc-11ee-bc5c-00163e71351b_s stroke-dasharray: 5
 style 1ad06a16-56bc-11ee-bc5c-00163e71351b_s stroke-dasharray: 5

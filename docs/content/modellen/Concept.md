@@ -43,23 +43,23 @@ style bfc145d8-c7e5-11ed-873b-00163e71351b_s stroke-dasharray: 5
 style 856afd7a-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
 style 856afc12-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
 style 856afa78-c7e5-11ed-af84-00163e71351b_s stroke-dasharray: 5
-184cc21a-ee3b-11ed-9064-00163e71351b["rdfs:Literal"]-.-184cc21a-ee3b-11ed-9064-00163e71351b_s(["Aantekening inhoud"])
-184cbee6-ee3b-11ed-9064-00163e71351b["crm:E55_Type"]-.-184cbee6-ee3b-11ed-9064-00163e71351b_s(["Aantekening type uri"])
-184cc09e-ee3b-11ed-9064-00163e71351b["crm:E56_Language"]-.-184cc09e-ee3b-11ed-9064-00163e71351b_s(["Aantekening taal uri"])
-1dbc9e78-ee3b-11ed-9064-00163e71351b["rdfs:Literal"]-.-1dbc9e78-ee3b-11ed-9064-00163e71351b_s(["Beschrijving inhoud"])
-1dbca198-ee3b-11ed-9064-00163e71351b["crm:E55_Type"]-.-1dbca198-ee3b-11ed-9064-00163e71351b_s(["Beschrijving type uri"])
-1dbca44a-ee3b-11ed-9064-00163e71351b["crm:E56_Language"]-.-1dbca44a-ee3b-11ed-9064-00163e71351b_s(["Beschrijving taal uri"])
-856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-.-856af5be-c7e5-11ed-af84-00163e71351b_s(["Naam"])
-7440d92c-ce3c-11ed-9232-00163e71351b["crm:E55_Type"]-.-7440d92c-ce3c-11ed-9232-00163e71351b_s(["Ruimer concept uri"])
-94da4416-ce3c-11ed-a1e6-00163e71351b["crm:E55_Type"]-.-94da4416-ce3c-11ed-a1e6-00163e71351b_s(["Nauwer concept uri"])
-1dbc99aa-ee3b-11ed-9064-00163e71351b["crm:E33_Linguistic_Object"]-.-1dbc99aa-ee3b-11ed-9064-00163e71351b_s(["Beschrijving"])
-a25ea6ca-c7e5-11ed-bbe2-00163e71351b["crm:E55_Type"]-.-a25ea6ca-c7e5-11ed-bbe2-00163e71351b_s(["Type uri"])
-0a3486e0-ce3d-11ed-9232-00163e71351b["rdfs:Literal"]-.-0a3486e0-ce3d-11ed-9232-00163e71351b_s(["Opmerking"])
-184cba22-ee3b-11ed-9064-00163e71351b["crm:E33_Linguistic_Object"]-.-184cba22-ee3b-11ed-9064-00163e71351b_s(["Aantekening"])
-bfc145d8-c7e5-11ed-873b-00163e71351b["crm:E1_CRM_Entity"]-.-bfc145d8-c7e5-11ed-873b-00163e71351b_s(["Equivalent entiteit uri"])
-856afd7a-c7e5-11ed-af84-00163e71351b["rdfs:Literal"]-.-856afd7a-c7e5-11ed-af84-00163e71351b_s(["Naam inhoud"])
-856afc12-c7e5-11ed-af84-00163e71351b["crm:E55_Type"]-.-856afc12-c7e5-11ed-af84-00163e71351b_s(["Naam type uri"])
-856afa78-c7e5-11ed-af84-00163e71351b["crm:E56_Language"]-.-856afa78-c7e5-11ed-af84-00163e71351b_s(["Naam taal uri"])
+184cc21a-ee3b-11ed-9064-00163e71351b["rdfs:Literal"]-.-184cc21a-ee3b-11ed-9064-00163e71351b_s(["Concept toelichting"])
+184cbee6-ee3b-11ed-9064-00163e71351b["crm:E55_Type"]-.-184cbee6-ee3b-11ed-9064-00163e71351b_s(["Concept toelichting type"])
+184cc09e-ee3b-11ed-9064-00163e71351b["crm:E56_Language"]-.-184cc09e-ee3b-11ed-9064-00163e71351b_s(["Concept toelichting taal"])
+1dbc9e78-ee3b-11ed-9064-00163e71351b["rdfs:Literal"]-.-1dbc9e78-ee3b-11ed-9064-00163e71351b_s(["Concept beschrijving"])
+1dbca198-ee3b-11ed-9064-00163e71351b["crm:E55_Type"]-.-1dbca198-ee3b-11ed-9064-00163e71351b_s(["Concept beschrijving type"])
+1dbca44a-ee3b-11ed-9064-00163e71351b["crm:E56_Language"]-.-1dbca44a-ee3b-11ed-9064-00163e71351b_s(["Concept beschrijving taal"])
+856af5be-c7e5-11ed-af84-00163e71351b["crm:E33_E41_Linguistic_Appellation"]-.-856af5be-c7e5-11ed-af84-00163e71351b_s(["Appellation"])
+7440d92c-ce3c-11ed-9232-00163e71351b["crm:E55_Type"]-.-7440d92c-ce3c-11ed-9232-00163e71351b_s(["Ruimer concept"])
+94da4416-ce3c-11ed-a1e6-00163e71351b["crm:E55_Type"]-.-94da4416-ce3c-11ed-a1e6-00163e71351b_s(["Nauwer concept"])
+1dbc99aa-ee3b-11ed-9064-00163e71351b["crm:E33_Linguistic_Object"]-.-1dbc99aa-ee3b-11ed-9064-00163e71351b_s(["Description"])
+a25ea6ca-c7e5-11ed-bbe2-00163e71351b["crm:E55_Type"]-.-a25ea6ca-c7e5-11ed-bbe2-00163e71351b_s(["Concept type"])
+0a3486e0-ce3d-11ed-9232-00163e71351b["rdfs:Literal"]-.-0a3486e0-ce3d-11ed-9232-00163e71351b_s(["Concept opmerking"])
+184cba22-ee3b-11ed-9064-00163e71351b["crm:E33_Linguistic_Object"]-.-184cba22-ee3b-11ed-9064-00163e71351b_s(["Annotation"])
+bfc145d8-c7e5-11ed-873b-00163e71351b["crm:E1_CRM_Entity"]-.-bfc145d8-c7e5-11ed-873b-00163e71351b_s(["Equivalente entiteit"])
+856afd7a-c7e5-11ed-af84-00163e71351b["rdfs:Literal"]-.-856afd7a-c7e5-11ed-af84-00163e71351b_s(["Concept naam"])
+856afc12-c7e5-11ed-af84-00163e71351b["crm:E55_Type"]-.-856afc12-c7e5-11ed-af84-00163e71351b_s(["Concept naam type"])
+856afa78-c7e5-11ed-af84-00163e71351b["crm:E56_Language"]-.-856afa78-c7e5-11ed-af84-00163e71351b_s(["Concept naam taal"])
 style 0a3486e0-ce3d-11ed-9232-00163e71351b fill:#D3D3D3
 style 184cba22-ee3b-11ed-9064-00163e71351b fill:#ffff00
 style 184cbee6-ee3b-11ed-9064-00163e71351b fill:#ffa500
@@ -73,8 +73,9 @@ style 1dbca01c-ee3b-11ed-9064-00163e71351b fill:#D3D3D3
 style 1dbca198-ee3b-11ed-9064-00163e71351b fill:#ffa500
 style 1dbca2f6-ee3b-11ed-9064-00163e71351b fill:#D3D3D3
 style 1dbca44a-ee3b-11ed-9064-00163e71351b fill:#ffa500
+style 5c49f282-be8c-11ed-beba-96a6d245525a fill:#ffa500
 style 7440d92c-ce3c-11ed-9232-00163e71351b fill:#ffa500
-style 856af5be-c7e5-11ed-af84-00163e71351b fill:#ffff00
+style 856af5be-c7e5-11ed-af84-00163e71351b fill:#EEE8AA
 style 856afa78-c7e5-11ed-af84-00163e71351b fill:#ffa500
 style 856afc12-c7e5-11ed-af84-00163e71351b fill:#ffa500
 style 856afd7a-c7e5-11ed-af84-00163e71351b fill:#D3D3D3
