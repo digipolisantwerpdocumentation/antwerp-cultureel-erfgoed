@@ -1,86 +1,64 @@
 ```mermaid
 graph LR
-6667fc1a-7c8b-11ee-b60e-00163e71351b["crm:E33_Linguistic_Object"]-->|"crm:P190_has_symbolic_content"|66680264-7c8b-11ee-b60e-00163e71351b(rdfs:Literal)
-6667fff8-7c8b-11ee-b60e-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|6668044e-7c8b-11ee-b60e-00163e71351b(xsd:string)
-6668016a-7c8b-11ee-b60e-00163e71351b["crm:E56_Language"]-->|"rdfs:label"|6668035e-7c8b-11ee-b60e-00163e71351b(xsd:string)
-911ac432-7c8c-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]-->|"crm:P190_has_symbolic_content"|911aca68-7c8c-11ee-a49f-00163e71351b(rdfs:Literal)
-911ac838-7c8c-11ee-a49f-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|911acc34-7c8c-11ee-a49f-00163e71351b(xsd:string)
-911ac96e-7c8c-11ee-a49f-00163e71351b["crm:E56_Language"]-->|"rdfs:label"|911acb4e-7c8c-11ee-a49f-00163e71351b(xsd:string)
-e12c2308-1012-11ee-b0c4-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|2dac340c-20bc-11ee-a9ac-00163e71351b(xsd:string)
-ff7b00a6-7c8a-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]-->|"crm:P190_has_symbolic_content"|ff7b1d48-7c8a-11ee-a49f-00163e71351b(rdfs:Literal)
-ff7b1af0-7c8a-11ee-a49f-00163e71351b["crm:E55_Type"]-->|"rdfs:label"|ff7b1f6e-7c8a-11ee-a49f-00163e71351b(xsd:string)
-ff7b1c44-7c8a-11ee-a49f-00163e71351b["crm:E56_Language"]-->|"rdfs:label"|ff7b1e7e-7c8a-11ee-a49f-00163e71351b(xsd:string)
-261b3b98-45a1-11ee-bc5c-00163e71351b["crm:E22_Human-Made_Object"]-->|"crm:P129i_is_subject_of"|ff7b00a6-7c8a-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]
-6667fc1a-7c8b-11ee-b60e-00163e71351b["crm:E33_Linguistic_Object"]-->|"crm:P2_has_type"|6667fff8-7c8b-11ee-b60e-00163e71351b["crm:E55_Type"]
-6667fc1a-7c8b-11ee-b60e-00163e71351b["crm:E33_Linguistic_Object"]-->|"crm:P72_has_language"|6668016a-7c8b-11ee-b60e-00163e71351b["crm:E56_Language"]
-911ac432-7c8c-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]-->|"crm:P2_has_type"|911ac838-7c8c-11ee-a49f-00163e71351b["crm:E55_Type"]
-911ac432-7c8c-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]-->|"crm:P72_has_language"|911ac96e-7c8c-11ee-a49f-00163e71351b["crm:E56_Language"]
-c4cb4c24-45a1-11ee-bc5c-00163e71351b["crm:E22_Human-Made_Object"]-->|"crm:P129i_is_subject_of"|6667fc1a-7c8b-11ee-b60e-00163e71351b["crm:E33_Linguistic_Object"]
-ede4725e-100c-11ee-a9ac-00163e71351b["crm:PC130_shows_features_of"]-->|"crm:P01_has_domain"|911ac432-7c8c-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]
-ede4725e-100c-11ee-a9ac-00163e71351b["crm:PC130_shows_features_of"]-->|"crm:P02_has_range"|bf90198e-1012-11ee-a9ac-00163e71351b["crm:E22_Human-Made_Object"]
-ede4725e-100c-11ee-a9ac-00163e71351b["crm:PC130_shows_features_of"]-->|"crm:P130.1_kind_of_similarity"|e12c2308-1012-11ee-b0c4-00163e71351b["crm:E55_Type"]
-fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Human-Made_Object"]-->|"crm:P01i_is_domain_of"|ede4725e-100c-11ee-a9ac-00163e71351b["crm:PC130_shows_features_of"]
-fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Human-Made_Object"]-->|"crm:P46_is_composed_of"|261b3b98-45a1-11ee-bc5c-00163e71351b["crm:E22_Human-Made_Object"]
-fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Human-Made_Object"]-->|"crm:P46i_forms_part_of"|c4cb4c24-45a1-11ee-bc5c-00163e71351b["crm:E22_Human-Made_Object"]
-ff7b00a6-7c8a-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]-->|"crm:P2_has_type"|ff7b1af0-7c8a-11ee-a49f-00163e71351b["crm:E55_Type"]
-ff7b00a6-7c8a-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]-->|"crm:P72_has_language"|ff7b1c44-7c8a-11ee-a49f-00163e71351b["crm:E56_Language"]
-ff7b00a6-7c8a-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]-.-ff7b00a6-7c8a-11ee-a49f-00163e71351b_s(["Has Part Object Description"])
-66680264-7c8b-11ee-b60e-00163e71351b["rdfs:Literal"]-.-66680264-7c8b-11ee-b60e-00163e71351b_s(["Is onderdeel van object beschrijving"])
-6667fff8-7c8b-11ee-b60e-00163e71351b["crm:E55_Type"]-.-6667fff8-7c8b-11ee-b60e-00163e71351b_s(["Is onderdeel van object beschrijving type"])
-6668016a-7c8b-11ee-b60e-00163e71351b["crm:E56_Language"]-.-6668016a-7c8b-11ee-b60e-00163e71351b_s(["Is onderdeel van object beschrijving taal"])
-911aca68-7c8c-11ee-a49f-00163e71351b["rdfs:Literal"]-.-911aca68-7c8c-11ee-a49f-00163e71351b_s(["Gelijkenis toelichting"])
-911ac838-7c8c-11ee-a49f-00163e71351b["crm:E55_Type"]-.-911ac838-7c8c-11ee-a49f-00163e71351b_s(["Gelijkenis toelichting type"])
-911ac96e-7c8c-11ee-a49f-00163e71351b["crm:E56_Language"]-.-911ac96e-7c8c-11ee-a49f-00163e71351b_s(["Gelijkenis toelichting taal"])
-6667fc1a-7c8b-11ee-b60e-00163e71351b["crm:E33_Linguistic_Object"]-.-6667fc1a-7c8b-11ee-b60e-00163e71351b_s(["Is Part Of Object Description"])
-911ac432-7c8c-11ee-a49f-00163e71351b["crm:E33_Linguistic_Object"]-.-911ac432-7c8c-11ee-a49f-00163e71351b_s(["Similarity Annotation"])
-bf90198e-1012-11ee-a9ac-00163e71351b["crm:E22_Human-Made_Object"]-.-bf90198e-1012-11ee-a9ac-00163e71351b_s(["Gelijkaardig object"])
-e12c2308-1012-11ee-b0c4-00163e71351b["crm:E55_Type"]-.-e12c2308-1012-11ee-b0c4-00163e71351b_s(["Gelijkenis type"])
-ede4725e-100c-11ee-a9ac-00163e71351b["crm:PC130_shows_features_of"]-.-ede4725e-100c-11ee-a9ac-00163e71351b_s(["Similarity"])
-261b3b98-45a1-11ee-bc5c-00163e71351b["crm:E22_Human-Made_Object"]-.-261b3b98-45a1-11ee-bc5c-00163e71351b_s(["Heeft onderdeel object"])
-c4cb4c24-45a1-11ee-bc5c-00163e71351b["crm:E22_Human-Made_Object"]-.-c4cb4c24-45a1-11ee-bc5c-00163e71351b_s(["Is onderdeel van object"])
-ff7b1d48-7c8a-11ee-a49f-00163e71351b["rdfs:Literal"]-.-ff7b1d48-7c8a-11ee-a49f-00163e71351b_s(["Heeft onderdeel object beschrijving"])
-ff7b1af0-7c8a-11ee-a49f-00163e71351b["crm:E55_Type"]-.-ff7b1af0-7c8a-11ee-a49f-00163e71351b_s(["Heeft onderdeel object beschrijving type"])
-ff7b1c44-7c8a-11ee-a49f-00163e71351b["crm:E56_Language"]-.-ff7b1c44-7c8a-11ee-a49f-00163e71351b_s(["Heeft onderdeel object beschrijving taal"])
-style ff7b00a6-7c8a-11ee-a49f-00163e71351b_s stroke-dasharray: 5
-style 66680264-7c8b-11ee-b60e-00163e71351b_s stroke-dasharray: 5
-style 6667fff8-7c8b-11ee-b60e-00163e71351b_s stroke-dasharray: 5
-style 6668016a-7c8b-11ee-b60e-00163e71351b_s stroke-dasharray: 5
-style 911aca68-7c8c-11ee-a49f-00163e71351b_s stroke-dasharray: 5
-style 911ac838-7c8c-11ee-a49f-00163e71351b_s stroke-dasharray: 5
-style 911ac96e-7c8c-11ee-a49f-00163e71351b_s stroke-dasharray: 5
-style 6667fc1a-7c8b-11ee-b60e-00163e71351b_s stroke-dasharray: 5
-style 911ac432-7c8c-11ee-a49f-00163e71351b_s stroke-dasharray: 5
-style bf90198e-1012-11ee-a9ac-00163e71351b_s stroke-dasharray: 5
-style e12c2308-1012-11ee-b0c4-00163e71351b_s stroke-dasharray: 5
-style ede4725e-100c-11ee-a9ac-00163e71351b_s stroke-dasharray: 5
-style 261b3b98-45a1-11ee-bc5c-00163e71351b_s stroke-dasharray: 5
-style c4cb4c24-45a1-11ee-bc5c-00163e71351b_s stroke-dasharray: 5
-style ff7b1d48-7c8a-11ee-a49f-00163e71351b_s stroke-dasharray: 5
-style ff7b1af0-7c8a-11ee-a49f-00163e71351b_s stroke-dasharray: 5
-style ff7b1c44-7c8a-11ee-a49f-00163e71351b_s stroke-dasharray: 5
-style 261b3b98-45a1-11ee-bc5c-00163e71351b fill:#B0927A
-style 2dac340c-20bc-11ee-a9ac-00163e71351b fill:#D3D3D3
-style 6667fc1a-7c8b-11ee-b60e-00163e71351b fill:#ffff00
-style 6667fff8-7c8b-11ee-b60e-00163e71351b fill:#ffa500
-style 6668016a-7c8b-11ee-b60e-00163e71351b fill:#ffa500
-style 66680264-7c8b-11ee-b60e-00163e71351b fill:#D3D3D3
-style 6668035e-7c8b-11ee-b60e-00163e71351b fill:#D3D3D3
-style 6668044e-7c8b-11ee-b60e-00163e71351b fill:#D3D3D3
-style 911ac432-7c8c-11ee-a49f-00163e71351b fill:#ffff00
-style 911ac838-7c8c-11ee-a49f-00163e71351b fill:#ffa500
-style 911ac96e-7c8c-11ee-a49f-00163e71351b fill:#ffa500
-style 911aca68-7c8c-11ee-a49f-00163e71351b fill:#D3D3D3
-style 911acb4e-7c8c-11ee-a49f-00163e71351b fill:#D3D3D3
-style 911acc34-7c8c-11ee-a49f-00163e71351b fill:#D3D3D3
-style bf90198e-1012-11ee-a9ac-00163e71351b fill:#B0927A
-style c4cb4c24-45a1-11ee-bc5c-00163e71351b fill:#B0927A
-style e12c2308-1012-11ee-b0c4-00163e71351b fill:#ffa500
-style ede4725e-100c-11ee-a9ac-00163e71351b fill:#ffffff
+style 13037bd2-181f-11ef-8625-960002548b4f fill:#5DAEEC
+style 13037e31-181f-11ef-8b75-960002548b4f fill:#ffa500
+style 13037ee1-181f-11ef-9f3d-960002548b4f fill:#D3D3D3
+style 13037f63-181f-11ef-860a-960002548b4f fill:#ffffff
+style 2de9cc6c-136b-11ef-bcb7-960002548b4f fill:#D3D3D3
+style 481b1292-136a-11ef-992f-960002548b4f fill:#B0927A
+style 4ae00d89-12d0-11ef-829f-960002548b4f fill:#B0927A
+style 4b2dbaf6-136b-11ef-a9b6-960002548b4f fill:#ffa500
+style 67d7a2d9-136a-11ef-81bd-960002548b4f fill:#D3D3D3
+style 70c64122-1359-11ef-91a0-960002548b4f fill:#ffff00
+style aa7e3142-12d0-11ef-bf9e-960002548b4f fill:#D3D3D3
+style b6658160-1359-11ef-b19a-960002548b4f fill:#ffa500
+style e233ecd1-136a-11ef-8896-960002548b4f fill:#ffff00
+style f48c7ee6-1359-11ef-beda-960002548b4f fill:#D3D3D3
 style fa95cea2-dd27-11ed-9655-00163e71351b fill:#B0927A
-style ff7b00a6-7c8a-11ee-a49f-00163e71351b fill:#ffff00
-style ff7b1af0-7c8a-11ee-a49f-00163e71351b fill:#ffa500
-style ff7b1c44-7c8a-11ee-a49f-00163e71351b fill:#ffa500
-style ff7b1d48-7c8a-11ee-a49f-00163e71351b fill:#D3D3D3
-style ff7b1e7e-7c8a-11ee-a49f-00163e71351b fill:#D3D3D3
-style ff7b1f6e-7c8a-11ee-a49f-00163e71351b fill:#D3D3D3
+style feacd607-181e-11ef-9739-960002548b4f fill:#5DAEEC
+style feacd83c-181e-11ef-ba0b-960002548b4f fill:#ffa500
+style feacd8ea-181e-11ef-bb50-960002548b4f fill:#ffa500
+style feacda5f-181e-11ef-9a6c-960002548b4f fill:#D3D3D3
+13037bd2-181f-11ef-8625-960002548b4f["crm:E13_Attribute_Assignment"]-->|"crm:P3_has_note"|13037ee1-181f-11ef-9f3d-960002548b4f(rdfs:Literal)
+481b1292-136a-11ef-992f-960002548b4f["crm:E18_Physical_Thing"]-->|"crm:P3_has_note"|67d7a2d9-136a-11ef-81bd-960002548b4f(rdfs:Literal)
+4ae00d89-12d0-11ef-829f-960002548b4f["crm:E18_Physical_Thing"]-->|"crm:P3_has_note"|aa7e3142-12d0-11ef-bf9e-960002548b4f(rdfs:Literal)
+70c64122-1359-11ef-91a0-960002548b4f["crm:E33_Linguistic_Object"]-->|"crm:P190_has_symbolic_content"|f48c7ee6-1359-11ef-beda-960002548b4f(rdfs:Literal)
+e233ecd1-136a-11ef-8896-960002548b4f["crm:E33_Linguistic_Object"]-->|"crm:P190_has_symbolic_content"|2de9cc6c-136b-11ef-bcb7-960002548b4f(rdfs:Literal)
+feacd607-181e-11ef-9739-960002548b4f["crm:E17_Type_Assignment"]-->|"crm:P3_has_note"|feacda5f-181e-11ef-9a6c-960002548b4f(rdfs:Literal)
+style 13037f63-181f-11ef-860a-960002548b4f_s stroke-dasharray: 5
+style 13037e31-181f-11ef-8b75-960002548b4f_s stroke-dasharray: 5
+style 13037ee1-181f-11ef-9f3d-960002548b4f_s stroke-dasharray: 5
+style 67d7a2d9-136a-11ef-81bd-960002548b4f_s stroke-dasharray: 5
+style aa7e3142-12d0-11ef-bf9e-960002548b4f_s stroke-dasharray: 5
+style f48c7ee6-1359-11ef-beda-960002548b4f_s stroke-dasharray: 5
+style b6658160-1359-11ef-b19a-960002548b4f_s stroke-dasharray: 5
+style 2de9cc6c-136b-11ef-bcb7-960002548b4f_s stroke-dasharray: 5
+style 4b2dbaf6-136b-11ef-a9b6-960002548b4f_s stroke-dasharray: 5
+style feacd83c-181e-11ef-ba0b-960002548b4f_s stroke-dasharray: 5
+style feacda5f-181e-11ef-9a6c-960002548b4f_s stroke-dasharray: 5
+style feacd8ea-181e-11ef-bb50-960002548b4f_s stroke-dasharray: 5
+13037f63-181f-11ef-860a-960002548b4f["crm:E1_CRM_Entity"]-.-13037f63-181f-11ef-860a-960002548b4f_s(["Toegewezen kenmerk"])
+13037e31-181f-11ef-8b75-960002548b4f["crm:E55_Type"]-.-13037e31-181f-11ef-8b75-960002548b4f_s(["Kenmerktoewijzing type"])
+13037ee1-181f-11ef-9f3d-960002548b4f["rdfs:Literal"]-.-13037ee1-181f-11ef-9f3d-960002548b4f_s(["Kenmerktoewijzing opmerking"])
+67d7a2d9-136a-11ef-81bd-960002548b4f["rdfs:Literal"]-.-67d7a2d9-136a-11ef-81bd-960002548b4f_s(["Heeft onderdeel opmerking"])
+aa7e3142-12d0-11ef-bf9e-960002548b4f["rdfs:Literal"]-.-aa7e3142-12d0-11ef-bf9e-960002548b4f_s(["Is onderdeel van opmerking"])
+f48c7ee6-1359-11ef-beda-960002548b4f["rdfs:Literal"]-.-f48c7ee6-1359-11ef-beda-960002548b4f_s(["Is onderdeel van beschrijving"])
+b6658160-1359-11ef-b19a-960002548b4f["crm:E55_Type"]-.-b6658160-1359-11ef-b19a-960002548b4f_s(["aat:300435416 (beschrijving)"])
+2de9cc6c-136b-11ef-bcb7-960002548b4f["rdfs:Literal"]-.-2de9cc6c-136b-11ef-bcb7-960002548b4f_s(["Heeft onderdeel beschrijving"])
+4b2dbaf6-136b-11ef-a9b6-960002548b4f["crm:E55_Type"]-.-4b2dbaf6-136b-11ef-a9b6-960002548b4f_s(["aat:300435416 (beschrijving)"])
+feacd83c-181e-11ef-ba0b-960002548b4f["crm:E55_Type"]-.-feacd83c-181e-11ef-ba0b-960002548b4f_s(["Typetoewijzing type"])
+feacda5f-181e-11ef-9a6c-960002548b4f["rdfs:Literal"]-.-feacda5f-181e-11ef-9a6c-960002548b4f_s(["Typetoewijzing opmerking"])
+feacd8ea-181e-11ef-bb50-960002548b4f["crm:E55_Type"]-.-feacd8ea-181e-11ef-bb50-960002548b4f_s(["Toegewezen type"])
+13037bd2-181f-11ef-8625-960002548b4f["crm:E13_Attribute_Assignment"]-->|"crm:P141_assigned"|13037f63-181f-11ef-860a-960002548b4f["crm:E1_CRM_Entity"]
+13037bd2-181f-11ef-8625-960002548b4f["crm:E13_Attribute_Assignment"]-->|"crm:P177_assigned_property_of_type"|13037e31-181f-11ef-8b75-960002548b4f["crm:E55_Type"]
+481b1292-136a-11ef-992f-960002548b4f["crm:E18_Physical_Thing"]-->|"crm:P129i_is_subject_of"|e233ecd1-136a-11ef-8896-960002548b4f["crm:E33_Linguistic_Object"]
+4ae00d89-12d0-11ef-829f-960002548b4f["crm:E18_Physical_Thing"]-->|"crm:P129i_is_subject_of"|70c64122-1359-11ef-91a0-960002548b4f["crm:E33_Linguistic_Object"]
+70c64122-1359-11ef-91a0-960002548b4f["crm:E33_Linguistic_Object"]-->|"crm:P2_has_type"|b6658160-1359-11ef-b19a-960002548b4f["crm:E55_Type"]
+e233ecd1-136a-11ef-8896-960002548b4f["crm:E33_Linguistic_Object"]-->|"crm:P2_has_type"|4b2dbaf6-136b-11ef-a9b6-960002548b4f["crm:E55_Type"]
+fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Human-Made_Object"]-->|"crm:P141i_was_assigned_by"|13037bd2-181f-11ef-8625-960002548b4f["crm:E13_Attribute_Assignment"]
+fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Human-Made_Object"]-->|"crm:P41i_was_classified_by"|feacd607-181e-11ef-9739-960002548b4f["crm:E17_Type_Assignment"]
+fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Human-Made_Object"]-->|"crm:P46_is_composed_of"|481b1292-136a-11ef-992f-960002548b4f["crm:E18_Physical_Thing"]
+fa95cea2-dd27-11ed-9655-00163e71351b["crm:E22_Human-Made_Object"]-->|"crm:P46i_forms_part_of"|4ae00d89-12d0-11ef-829f-960002548b4f["crm:E18_Physical_Thing"]
+feacd607-181e-11ef-9739-960002548b4f["crm:E17_Type_Assignment"]-->|"crm:P177_assigned_property_of_type"|feacd83c-181e-11ef-ba0b-960002548b4f["crm:E55_Type"]
+feacd607-181e-11ef-9739-960002548b4f["crm:E17_Type_Assignment"]-->|"crm:P42_assigned"|feacd8ea-181e-11ef-bb50-960002548b4f["crm:E55_Type"]
 ```

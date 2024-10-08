@@ -1,16 +1,12 @@
 ```mermaid
 graph LR
-3b2194d8-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-->|"rdfs:label"|3b21a662-04fb-11ee-9497-96a6d2455259(xsd:string)
-3b219744-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-->|"rdfs:label"|3b21a6e4-04fb-11ee-9497-96a6d2455259(xsd:string)
-3b21a73e-04fb-11ee-9497-96a6d2455259["crm:E78_Curated_Holding"]-->|"crm:P50_has_current_keeper"|3b2194d8-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]
-3b21a73e-04fb-11ee-9497-96a6d2455259["crm:E78_Curated_Holding"]-->|"crm:P52_has_current_owner"|3b219744-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]
-3b2194d8-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-.-3b2194d8-04fb-11ee-9497-96a6d2455259_s(["Huidige beheerder"])
-3b219744-04fb-11ee-9497-96a6d2455259["crm:E39_Actor"]-.-3b219744-04fb-11ee-9497-96a6d2455259_s(["Huidige eigenaar"])
-style 3b2194d8-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
-style 3b219744-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
-style 3b2194d8-04fb-11ee-9497-96a6d2455259 fill:#ffc0cb
-style 3b219744-04fb-11ee-9497-96a6d2455259 fill:#ffc0cb
-style 3b21a662-04fb-11ee-9497-96a6d2455259 fill:#D3D3D3
-style 3b21a6e4-04fb-11ee-9497-96a6d2455259 fill:#D3D3D3
-style 3b21a73e-04fb-11ee-9497-96a6d2455259 fill:#B0927A
+style 116b550e-27f8-11ef-9309-960002548b4f fill:#ffc0cb
+style 1fc1e45e-27f8-11ef-b550-960002548b4f fill:#ffc0cb
+style f03920c2-27f7-11ef-8f92-960002548b4f fill:#B0927A
+116b550e-27f8-11ef-9309-960002548b4f["crm:E39_Actor"]-.-116b550e-27f8-11ef-9309-960002548b4f_s(["Huidige beheerder"])
+1fc1e45e-27f8-11ef-b550-960002548b4f["crm:E39_Actor"]-.-1fc1e45e-27f8-11ef-b550-960002548b4f_s(["Huidige beheerder"])
+style 116b550e-27f8-11ef-9309-960002548b4f_s stroke-dasharray: 5
+style 1fc1e45e-27f8-11ef-b550-960002548b4f_s stroke-dasharray: 5
+f03920c2-27f7-11ef-8f92-960002548b4f["crm:E22_Human-Made_Object"]-->|"crm:P50_has_current_keeper"|116b550e-27f8-11ef-9309-960002548b4f["crm:E39_Actor"]
+f03920c2-27f7-11ef-8f92-960002548b4f["crm:E22_Human-Made_Object"]-->|"crm:P52_has_current_owner"|1fc1e45e-27f8-11ef-b550-960002548b4f["crm:E39_Actor"]
 ```

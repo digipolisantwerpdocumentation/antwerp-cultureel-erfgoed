@@ -1,24 +1,22 @@
 ```mermaid
 graph LR
-3b2198de-04fb-11ee-9497-96a6d2455259["crm:E33_Linguistic_Object"]-->|"crm:P190_has_symbolic_content"|3b21a7d4-04fb-11ee-9497-96a6d2455259(rdfs:Literal)
-3b21a82e-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-->|"rdfs:label"|3b21a784-04fb-11ee-9497-96a6d2455259(xsd:string)
-3b21a87e-04fb-11ee-9497-96a6d2455259["crm:E56_Language"]-->|"rdfs:label"|3b21a8ce-04fb-11ee-9497-96a6d2455259(xsd:string)
-3b2198de-04fb-11ee-9497-96a6d2455259["crm:E33_Linguistic_Object"]-->|"crm:P2_has_type"|3b21a82e-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]
-3b2198de-04fb-11ee-9497-96a6d2455259["crm:E33_Linguistic_Object"]-->|"crm:P72_has_language"|3b21a87e-04fb-11ee-9497-96a6d2455259["crm:E56_Language"]
-3b21a73e-04fb-11ee-9497-96a6d2455259["crm:E78_Curated_Holding"]-->|"crm:P129i_is_subject_of"|3b2198de-04fb-11ee-9497-96a6d2455259["crm:E33_Linguistic_Object"]
-3b21a7d4-04fb-11ee-9497-96a6d2455259["rdfs:Literal"]-.-3b21a7d4-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid beschrijving"])
-3b21a82e-04fb-11ee-9497-96a6d2455259["crm:E55_Type"]-.-3b21a82e-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid beschrijving type"])
-3b21a87e-04fb-11ee-9497-96a6d2455259["crm:E56_Language"]-.-3b21a87e-04fb-11ee-9497-96a6d2455259_s(["Archiefeenheid beschrijving taal"])
-3b2198de-04fb-11ee-9497-96a6d2455259["crm:E33_Linguistic_Object"]-.-3b2198de-04fb-11ee-9497-96a6d2455259_s(["Description"])
-style 3b21a7d4-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
-style 3b21a82e-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
-style 3b21a87e-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
-style 3b2198de-04fb-11ee-9497-96a6d2455259_s stroke-dasharray: 5
-style 3b2198de-04fb-11ee-9497-96a6d2455259 fill:#ffff00
-style 3b21a73e-04fb-11ee-9497-96a6d2455259 fill:#B0927A
-style 3b21a784-04fb-11ee-9497-96a6d2455259 fill:#D3D3D3
-style 3b21a7d4-04fb-11ee-9497-96a6d2455259 fill:#D3D3D3
-style 3b21a82e-04fb-11ee-9497-96a6d2455259 fill:#ffa500
-style 3b21a87e-04fb-11ee-9497-96a6d2455259 fill:#ffa500
-style 3b21a8ce-04fb-11ee-9497-96a6d2455259 fill:#D3D3D3
+style ea784bec-27fa-11ef-a1ae-960002548b4f fill:#D3D3D3
+style f03920c2-27f7-11ef-8f92-960002548b4f fill:#B0927A
+style fa393f01-27f9-11ef-95ef-960002548b4f fill:#ffff00
+style fa394354-27f9-11ef-a5d3-960002548b4f fill:#D3D3D3
+style fa3946a5-27f9-11ef-8575-960002548b4f fill:#D3D3D3
+style fa3948ee-27f9-11ef-8067-960002548b4f fill:#ffa500
+f03920c2-27f7-11ef-8f92-960002548b4f["crm:E22_Human-Made_Object"]-->|"crm:P3_has_note"|ea784bec-27fa-11ef-a1ae-960002548b4f(rdfs:Literal)
+fa393f01-27f9-11ef-95ef-960002548b4f["crm:E33_Linguistic_Object"]-->|"crm:P190_has_symbolic_content"|fa3946a5-27f9-11ef-8575-960002548b4f(rdfs:Literal)
+fa393f01-27f9-11ef-95ef-960002548b4f["crm:E33_Linguistic_Object"]-->|"crm:P3_has_note"|fa394354-27f9-11ef-a5d3-960002548b4f(rdfs:Literal)
+f03920c2-27f7-11ef-8f92-960002548b4f["crm:E22_Human-Made_Object"]-->|"crm:P129i_is_subject_of"|fa393f01-27f9-11ef-95ef-960002548b4f["crm:E33_Linguistic_Object"]
+fa393f01-27f9-11ef-95ef-960002548b4f["crm:E33_Linguistic_Object"]-->|"crm:P2_has_type"|fa3948ee-27f9-11ef-8067-960002548b4f["crm:E55_Type"]
+ea784bec-27fa-11ef-a1ae-960002548b4f["rdfs:Literal"]-.-ea784bec-27fa-11ef-a1ae-960002548b4f_s(["Opmerking"])
+fa3946a5-27f9-11ef-8575-960002548b4f["rdfs:Literal"]-.-fa3946a5-27f9-11ef-8575-960002548b4f_s(["Beschrijving"])
+fa3948ee-27f9-11ef-8067-960002548b4f["crm:E55_Type"]-.-fa3948ee-27f9-11ef-8067-960002548b4f_s(["aat:300435416 (beschrijving)"])
+fa394354-27f9-11ef-a5d3-960002548b4f["rdfs:Literal"]-.-fa394354-27f9-11ef-a5d3-960002548b4f_s(["Beschrijving opmerking"])
+style ea784bec-27fa-11ef-a1ae-960002548b4f_s stroke-dasharray: 5
+style fa3946a5-27f9-11ef-8575-960002548b4f_s stroke-dasharray: 5
+style fa3948ee-27f9-11ef-8067-960002548b4f_s stroke-dasharray: 5
+style fa394354-27f9-11ef-a5d3-960002548b4f_s stroke-dasharray: 5
 ```
