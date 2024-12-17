@@ -127,6 +127,15 @@
 	* [Voorstelling](/content/modellen/ImmaterialCulturalHeritage/Voorstelling.md)
 	* [Item](/content/modellen/ImmaterialCulturalHeritage/Item.md)
 
+* Archief eenheid (in ontwikkeling: LinkedArt)
+	* [Identificatie](/content/modellen/ArchivalUnitSet/Identificatie.md)
+	* [Inhoud](/content/modellen/ArchivalUnitSet/Inhoud.md)
+	* [Verwant materiaal](/content/modellen/ArchivalUnitSet/VerwantMateriaal.md)
+	* [Context](/content/modellen/ArchivalUnitSet/Context.md)
+	* [Creatie](/content/modellen/ArchivalUnitSet/Creatie.md)
+	* [Fysieke kenmerken](/content/modellen/ArchivalUnitSet/FysiekeKenmerken.md)
+	* [Verwijzingen](/content/modellen/ArchivalUnitSet/Verwijzingen.md)
+
 * Tabelweergaven
 
     * [Datahub](/content/modellen/TabelDatahub.md)
